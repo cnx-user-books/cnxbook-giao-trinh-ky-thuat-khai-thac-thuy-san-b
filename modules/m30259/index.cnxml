@@ -1,0 +1,210 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lưới kéo</title>
+  <metadata>
+  <md:content-id>m30259</md:content-id><md:title>Lưới kéo</md:title>
+  <md:abstract>Lưới Kéo (hay còn gọi là lưới cào; hay lưới giả; hoặc lưới giả cào) là ngư cụ khai thác phổ biến ở ĐBSCL. Sản lượng do nghề lưới kéo đem lại là cao nhất  nước ta hiện nay. Khác với lưới rê, lưới kéo chuyên đánh bắt các loài cá sống ở tầng đáy hoặc gần tầng đáy. Đối tượng khai thác lưới kéo là tất cả các loại cá mà nó quét được. Tuy nhiên, ngày nay lưới kéo còn có thể khai thác cả tầng giữa và tầng trên.
+Để phân biệt lưới kéo với ngư cụ khác ta cần xem xét nguyên lý hoạt động, cấu tạo và kỹ thuật khai thác của nó sau.</md:abstract>
+  <md:uuid>39b6e01a-d81f-4e2c-8412-c54d16f1e2d5</md:uuid>
+</metadata>
+  <content>
+    <section id="id-319293292419">
+      <title>Nguyên lý đánh bắt lưới kéo</title>
+      <para id="id8888252">Lưới kéo đánh bắt theo nguyên lý: "Lọc nước, bắt cá". Cá bị lùa vào lưới bởi sự di chuyển tới miệng lưới kéo và bị giữ lại ở đụt lưới. Do vậy lưới kéo là ngư cụ khai thác mang tính chủ động, cá không thể thoát ra khỏi lưới nếu như không có khả năng quay chạy ngược ra được miệng lưới.</para>
+    </section>
+    <section id="id-995455840378">
+      <title>Phân loại lưới kéo</title>
+      <para id="id8400642">Trong thực tế người ta có thể phân lưới kéo ra làm nhiều loại, có thể dựa vào đối tượng khai thác, số lượng lưới, số lượng tàu sử dụng, cấu tạo lưới, khu vực khai thác,... mà phân loại (B 5.1), chẳng hạn:</para>
+      <table id="id9001346" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c5">Bảng 5.1 - Phân loại lưới kéo đối tượng khai thác, số lượng lưới, số lượng tàu sử dụng, cấu tạo lưới, khu vực khai thác</entry>
+            </row>
+            <row>
+              <entry>Đối tượng khai thác</entry>
+              <entry>Số lượng lưới</entry>
+              <entry>Kết cấu lưới</entry>
+              <entry>Số lượng tàu</entry>
+              <entry>Khu vực khai thác</entry>
+            </row>
+            <row>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới cào cáLưới cào tôm.Lưới cào sò</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới kéo 1 lướiLưới kéo 2 lưới</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cào rườngCào vánCào khung</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cào đơnCào đôi</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới cào hồLưới cào sôngLưới cào biển</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-666043482308">
+      <title>Cấu tạo lưới kéo</title>
+      <para id="id9441508">Lưới kéo có dạng hình túi hay hình ống, một đầu được mở rộng, tiếp đó hẹp dần và cuối cùng bị bịt kín ở túi lưới (đụt lưới). Cấu tạo cơ bản của lưới kéo gồm: vàng lưới (cánh lưới, thân lưới, đụt lưới); các phụ tùng tạo độ mở cho miệng lưới: Ván lưới (hoặc rường lưới), giềng phao, giềng chì, cáp kéo (H 5.1).</para>
+      <section id="id-893373050134">
+        <title>Cấu tạo vàng lưới kéo</title>
+        <para id="id9523177">Cấu tạo cơ bản của vàng lưới kéo, gồm: cánh lưới, thân lưới, đụt lưới và lưới chắn.</para>
+        <section id="id-767715579231">
+          <title>Cánh lưới</title>
+          <para id="id9112799">Cánh lưới là phần đầu tiên ở phía trước của miệng lưới kéo. Cánh lưới có tác dụng lùa cá vào thân và đụt lưới. Với chức năng như vậy nên người ta thường thiết kế cánh lưới sao cho có kích thước mắt lưới, ac, là lớn nhất và độ thô chỉ lưới của cánh, dc, là nhỏ nhất, nhằm làm giảm lực cản của nước tác dụng lên cánh và tiết kiệm nguyên vật liệu chỉ lưới.</para>
+          <para id="id9137236">Chiều dài cánh lưới thường chiếm 1/5 chiều dài toàn bộ vàng lưới kéo.</para>
+          <figure id="id9485176">
+            <media id="id6562449" alt=""><image src="../../media/graphics1-9527.png" mime-type="image/png" height="323" width="608"/></media>
+          </figure>
+        </section>
+        <section id="id-892479193777">
+          <title>Thân lưới</title>
+          <para id="id9214058">Thân lưới kéo có tác dụng là tiếp tục giữ và lùa cá vào đụt. Do vậy người ta thường thiết kế kích thước mắt lưới ở thân, ath, thì nhỏ hơn kích thước mắt lưới ở cánh, ac, và lớn hơn kích thước mắt lưới ở đụt, ađ. Còn độ thô chỉ lưới ở thân, dth, thì lớn hơn độ thô chỉ lưới ở cánh và nhỏ hơn độ thô chỉ lưới ở đụt, dđ.</para>
+          <para id="id8872610">ac  ath  ađ</para>
+          <para id="id9003414">dc  dth  dđ</para>
+          <para id="id9342155">Chiều dài thân lưới thường chiếm 3/5 chiều dài toàn bộ vàng lưới kéo.</para>
+        </section>
+        <section id="id-15441398963">
+          <title>Đụt lưới</title>
+          <para id="id8879578">Đụt lưới là phần quan trọng nhất của vàng lưới. Đụt lưới có tác dụng giữ cá và bắt cá. Cá một khi đã vào đến đụt lưới luôn có xu hướng tìm cách thoát ra mạnh nhất, do vậy đụt lưới phải đảm bảo sao cho cá không thoát ra được khỏi lưới, nhưng cũng không đóng vào mắt lưới. Vì thế, đụt lưới được thiết kế với kích thước mắt lưới là nhỏ nhất và độ thô chỉ lưới là lớn nhất.</para>
+          <para id="id8396395">Mặt khác, đụt lưới là bộ phận thường xuyên chịu tải và bị mài mòn bởi nền đáy, nên để tăng cường độ bền cho đụt, người ta thường lắp thêm một áo đụt bao bên ngoài đụt lưới. Khi này, áo đụt thường được làm bằng vật liệu chịu mài mòn như polyethylene, độ thô chỉ lưới và kích thước mắt lưới thường lớn hơn độ thô và kích thước của đụt lưới.</para>
+          <para id="id8396402">Chiều dài đụt lưới thường chiếm 1/5 chiều dài toàn bộ vàng lưới kéo.</para>
+        </section>
+        <section id="id-048022453642">
+          <title>Lưới chắn</title>
+          <para id="id8882478">Lưới chắn là phần nằm ở phía trên và trước miệng lưới kéo, gắn kết với hai cánh và thân trên của lưới. Tác dụng của lưới chắn là ngăn không cho cá vượt lên phía trên của miệng lưới kéo để thoát ra ngoài. Ngưới ta thường chọn độ thô và kích thước lưới chắn gần giống như độ thô và kích thưới cánh lưới.</para>
+        </section>
+      </section>
+      <section id="id-594314630234">
+        <title>Phụ tùng lưới kéo</title>
+        <para id="id7887024">Phụ tùng lưới kéo là những trang bị đi kèm với vàng lưới kéo. Phụ tùng lưới kéo nhằm đảm bảo cho lưới kéo làm việc một cách hiệu quả nhất, đạt sản lượng cao trong quá trình khai thác lưới kéo. Phụ tùng lưới kéo bao gồm các trang thiết bị sau: giềng phao, giềng chì, ván lưới hay rường lưới, cáp kéo.</para>
+        <section id="id-959414824672">
+          <title>Giềng phao</title>
+          <para id="id9308032">Giềng phao là dây giềng được lắp phao, giềng phao được bố trí dọc theo phần trên của miệng lưới kéo. Tác dụng của giềng phao là nâng phần trên của miệng lưới kéo, nhằm làm tăng tiết diện hứng cá của miệng lưới kéo. </para>
+          <para id="id8665293">Để đảm bảo đủ sức nâng phần trên miệng lưới kéo người ta cần phải tính toán chọn phao lưới kéo sao cho đạt yêu cầu đối với từng vàng lưới cụ thể. Thông thường phao lưới kéo được chọn là dạng phao cầu, đường kính từ 150-200 mm, nguyên liệu là nhựa hoặc thủy tinh tổng hợp. Số lượng phao thường từ 7-15 cái tuỳ theo qui mô lưới, bố trí dọc theo giềng phao.</para>
+          <para id="id8665304">Chiều dài giềng phao thì bằng với chiều dài phía trên của miệng lưới kéo. Từ chiều dài giềng phao ta có thể dự đoán được độ mở ngang của miệng lưới kéo. Thông thường độ mở ngang của miệng lưới kéo bằng 60% chiều dài giềng phao.</para>
+        </section>
+        <section id="id-311889294981">
+          <title>Giềng chì</title>
+          <para id="id4209717">Giềng chì là phần lắp đặt phía dưới của miệng lưới kéo. Trên giềng chì người ta lắp chì và các con lăn bằng gỗ, mục đích làm cho phần dưới của miệng lưới kéo bám sát được với nền đáy, giảm ma sát, nhưng không gây cản trở lưới trong quá trình làm việc.</para>
+          <para id="id9493944">Việc tính toán độ nặng cho giềng chì phải đảm bảo sao cho giềng chì luôn bám được nền đáy, do vậy tùy từng vàng lưới cụ thể mà chọn trọng lượng chì thích hợp. Chì luôn được lắp đặt suốt chiều dài giềng chì. Nguyên liệu chế tạo chì thường là chì hoặc xích sắt.</para>
+          <para id="id9095744">Chiều dài của giềng chì trong lưới kéo tầng đáy thì dài hơn giềng phao bởi giềng chì kết nối liền với thân dưới, trong khí đó giềng phao lại kết với lưới chắn.</para>
+          <para id="id9744309">Trong lưới kéo tôm ngoài giềng chì, người ta còn lắp đặt thêm ở phía trước giềng chì một sợi xích lùa, tác dụng của xích lùa là nhằm đánh bật các loại tôm, cá đang vùi bùn khi lưới kéo quét qua.</para>
+        </section>
+        <section id="id-435623899826">
+          <title>Ván lưới và khung rường</title>
+          <list id="id7993590" list-type="bulleted">
+            <item>Ván lưới kéo</item>
+          </list>
+          <para id="id8907005">Trên các tàu khai thác lưới kéo ở biển người ta thường dùng ván lưới (hay còn gọi là dép) là nhằm tạo ra độ mở ngang cho vàng lưới kéo. Trong quá trình làm việc, dưới sức kéo đi tới của tàu, dòng chảy sẽ tác dụng lên mặt ván và thông qua hệ thống cáp kéo - dây treo ván (dây lèo) sẽ làm cho 2 ván dạt qua hai bên, khi đó dưới sự khống chế của giềng phao và giềng chì lưới sẽ được mở ra. Nguyên lý hoạt động của ván tương tự như nguyên lý hoạt động của diều trong không trung (H 5.2a, b). Khoảng cách giữa hai ván chính là độ rộng của diện tích quét của lưới kéo. Tuy nhiên chiều cao của ván lưới thì chưa phải là chiều cao thực sự của miệng lưới kéo ván, bởi vì chiều cao thực sự của lưới kéo ván còn cần phải tính đến sức nâng của giềng phao khi lưới làm việc trong nước.</para>
+          <figure id="id9137389">
+            <media id="id6708713" alt=""><image src="../../media/graphics2-d162.png" mime-type="image/png" height="363" width="595"/></media>
+          </figure>
+          <list id="id9444734" list-type="bulleted">
+            <item>Khung rường</item>
+          </list>
+          <para id="id9444743">Các tàu khai thác lưới kéo trên sông thì thường sử dụng khung rường lưới. Khung rường lưới do cấu trúc cố định nên có ưu điểm là tạo độ mở ngang và mở cao ổn định nhưng nhược điểm là không thể tăng kích thước lên quá lớn bởi khó cho việc bố trí trên tàu (H 5.3).</para>
+          <para id="id6080095">Độ dài của khung rường chính là độ mở ngang của miệng lưới kéo và chiều cao của khung rường cũng được xem là bằng độ mở cao của miệng lưới kéo.</para>
+          <figure id="id9562595">
+            <media id="id6798436" alt=""><image src="../../media/graphics3-595e.png" mime-type="image/png" height="318" width="591"/></media>
+          </figure>
+        </section>
+        <section id="id-456638385118">
+          <title>Cáp kéo</title>
+          <para id="id9254776">Cáp kéo dùng để liên kết giữa tàu với lưới, và cũng nhằm đưa vàng lưới đến đúng độ sâu khai thác. Nguyên liệu làm cáp kéo có thể là thừng hoặc cáp thép. </para>
+          <para id="id9254788">Tùy theo lực cản của lưới trong nước mà người ta chọn cường độ đứt của cáp kéo sao cho có thể làm việc tốt không để xảy ra đứt cáp kéo. Thông thường người ta chọn cường độ đứt của cáp gấp 2-3 lần lực cản của lưới.</para>
+          <para id="id7850311">Chiều dài cáp kéo được chọn tùy thuộc vào độ sâu ngư trường khai thác, thông thường chiều dài cáp kéo được thả dài ra gấp 3-4 lần độ sâu ngư trường nếu độ sâu nhỏ hơn 30 m. Nhưng nếu độ sâu lớn hơn 30m thì người ta chỉ thả dây cáp kéo dài khoảng từ (2,5 - 3,0) lần độ sâu ngư trường.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-112586513128">
+      <title>Kỹ thuật khai thác lưới kéo</title>
+      <para id="id9690548">Tương tự một số nghề đánh bắt khác, kỹ thuật khai thác lưới kéo liên quan đến một chu kỳ (một mẻ) khai thác, bao gồm các bước: Chuẩn bị; thả lưới; kéo lưới (hay dắt lưới); và thu lưới, bắt cá. </para>
+      <para id="id9005086">Mỗi bước trong tiến trình này cần phải được chuẩn bị và thao tác cẩn thận, cần thực hành đúng kỹ thuật thì mới đem lại sản lượng cao cho một mẽ khai thác. </para>
+      <para id="id9005097">Ta lần lượt tìm hiểu các bước cụ thể trên như sau:</para>
+      <section id="id-48778438829">
+        <title>Chuẩn bị</title>
+        <para id="id9459998">Bao gồm công tác chuẩn bị ở bờ và chuẩn bị ở ngư trường khi sắp thả lưới.</para>
+        <list id="id9562345" list-type="bulleted">
+          <item>Chuẩn bị ở bờ</item>
+        </list>
+        <para id="id8920711">Công tác chuẩn bị ở bờ bao gồm:</para>
+        <list id="id8920715" list-type="bulleted">
+          <item>Tàu, máy, lưới,... phải được kiểm tra cẩn thận, nếu phát hiện ra sự cố hoặc hư hỏng gì phải sửa chữa ngay. Luôn chuẩn bị thêm 1-2 vàng lưới kéo dự phòng, bởi vì lưới rất dễ bị hư hỏng, rách nát hoặc mất lưới (do sự cố đứt cáp) trong quá trình khai thác.</item>
+          <item>Xăng dầu, nước đá, muối, thực phẩm,... phải chuẩn bị đầy đủ cho một chuyến khai thác.</item>
+        </list>
+        <list id="id9495211" list-type="bulleted">
+          <item>Chuẩn bị ở ngư trường</item>
+        </list>
+        <para id="id9093562">Khi đã đến ngư trường rồi, trước khi thả lưới ta cần phải chuẩn bị một số việc sau:</para>
+        <list id="id9093570" list-type="bulleted">
+          <item>Lắp ráp lưới, các phụ tùng, ván lưới và cáp kéo thành một bộ ngư cụ khai thác hoàn chỉnh. Sắp xếp lưới theo thứ tự và không để bị rối lưới trong quá trình thả lưới xuống nước.</item>
+        </list>
+        <list id="id7828216" list-type="bulleted">
+          <item>Xác định độ sâu ngư trường khai thác để định mức chiều dài dây cáp kéo sẽ được thả ra. Việc xác định độ sâu có thể bằng dây dò hoặc máy đo độ sâu.</item>
+        </list>
+        <list id="id6081931" list-type="bulleted">
+          <item>Xem xét tình hình tốc độ và hướng của gió, nước để chọn hướng thả lưới thích hợp.</item>
+        </list>
+        <para id="id9210058">Sau khi chuẩn bị xong thì ta tiến hành bước tiếp theo là thả lưới.</para>
+      </section>
+      <section id="id-607914860096">
+        <title>Thả lưới</title>
+        <para id="id9258223">Tùy theo kiểu bố trí lưới là ở mạn tàu hay ở đuôi tàu mà ta có cách thả khác nhau:</para>
+        <list id="id8875722" list-type="bulleted">
+          <item>Kiểu thả lưới ở đuôi</item>
+        </list>
+        <para id="id9304000">Phương pháp này đơn giản và thường được áp dụng. Để thả lưới ở đuôi tàu ta lần lượt thực hiện các thao tác sau:</para>
+        <list id="id9304009" list-type="bulleted">
+          <item>Trước khi thả ta cho tàu chạy chậm lại, có thể cắt ly hợp chân vịt để cho tàu tự do đi tới bằng trớn tới. Tiếp đến lần lượt thả đụt lưới, thân lưới rồi cánh lưới. Xem xét tình trạng mở lưới, nếu thấy sự cố chéo lưới hay đụt lưới vướng vào miệng lưới kéo thì phải sửa lại ngay.</item>
+          <item>Cho tàu chạy với tốc độ chậm rồi bắt đầu thả hai ván lưới ở 2 bên (cần có 2 người phụ trách việc thả 2 ván lưới), khi này ta xem xét tình trạng mở của 2 ván, chú ý coi chừng 2 ván có thể làm chéo cánh lưới hoặc dây lèo bị kẹt, bị rối hoặc 2 ván khi thả xuống bị lực đạp của nước làm chéo ván. Nếu có sự cố thả ván phải làm lại ngay. Sau đó để cho 2 ván rơi chìm từ từ xuống nền đáy. Tránh để 2 ván rơi chìm nhanh khi đó ván có thể bị cắm bùn. Nếu thấy 2 ván tiếp xúc đều, êm với nền đáy không có sự cố gì thì ta tiếp tục thả dây cáp kéo.</item>
+          <item>Tiếp đến ta thả từ từ 2 dây cáp kéo, có thể thả từng đoạn rồi tạm cố định cáp kéo lại để cho 2 ván kịp mở ra, rồi tiếp tục thả theo đúng với chiều dài cáp mà ta định thả. Ta nên làm dấu trên từng đoạn chiều dài để biết được lượng chiều dài đã thả ra. Khi đã thả đủ chiều dài cần thiết thì cố định lại không thả ra nữa. </item>
+        </list>
+        <para id="id9332830">Thông thường chiều dài cáp thả ra bằng 3-4 lần độ sâu ngư trường nếu độ sâu dưới 30 m; và từ 2,5-3 lần nếu độ sâu lớn hơn 30 m. Sau đó tăng tốc độ tàu lên dần theo đúng với yêu cầu tốc độ khai thác cần thiết (mỗi loại đối tượng đánh bắt sẽ có tốc độ kéo lưới khác nhau), và điều khiển tàu đi theo hướng mà ta dự định khai thác.</para>
+        <list id="id9744989" list-type="bulleted">
+          <item>Thả lưới bằng mạn tàu</item>
+        </list>
+        <para id="id9023758">Đối với việc thả lưới bằng mạn, yêu cầu công việc cơ bản cũng giống như thả lưới ở đuôi, nhưng trong quá trình thả ta phải cho tàu quay vòng tròn nhằm đưa lưới ra xa mạn tàu và tạo điều kiện thuận lợi cho 2 ván lưới dễ dàng mở ra (H 5.4). </para>
+        <para id="id9378056">Ta có sơ đồ thả lưới bằng mạn như sau: </para>
+        <figure id="id9378068">
+          <media id="id6571243" alt=""><image src="../../media/graphics4-6b65.png" mime-type="image/png" height="353" width="670"/></media>
+        </figure>
+      </section>
+      <section id="id-940110137733">
+        <title>Dắt lưới (hay kéo lưới)</title>
+        <para id="id8433672">Giai đoạn dắt lưới hay kéo lưới là thời gian đánh bắt cá (làm ra sản lượng). Sản lượng khai thác cao hay thấp phụ thuộc vào thời gian dắt lưới, tốc độ dắt lưới và hướng dắt lưới.</para>
+        <list id="id9625122" list-type="bulleted">
+          <item>Thời gian dắt lưới</item>
+        </list>
+        <para id="id8190512">Thời gian dắt lưới là thời gian lưới được kéo đi trong nước, nó có liên quan trực tiếp đến sản lượng khai thác. Thời gian dắt lưới càng lâu sản lượng khai thác càng nhiều, nhưng thời gian này cũng có giới hạn của nó, không thể dắt lưới đến lúc nào cũng được mà thời gian này phải tính đến sức chứa của đụt lưới và độ tươi tốt của đối tượng khai thác, bởi vì nếu cá nhiều quá có thể làm bể đụt lưới hoặc cá để lâu quá trong đụt sẽ bị va đập làm giảm chất lượng cá. Thời gian dắt lưới là từ 1-3 giờ. Tuy nhiên nếu chỉ khai thác thăm dò ta có thể chỉ cần dắt khoảng từ 0,5 - 1 giờ.</para>
+        <list id="id8190516" list-type="bulleted">
+          <item>Tốc độ dắt lưới</item>
+        </list>
+        <para id="id9153486">Mỗi đối tượng khai thác khác nhau cần có tốc độ dắt lưới tối ưu khác nhau, cá đi với tốc độ nhanh cần tốc độ dắt lưới lớn. Tuy nhiên tốc độ dắt lưới còn phụ thuộc vào sức kéo của tàu và sức chịu lực cản của lưới, do vậy ta cần chọn tốc độ dắt lưới sao cho thỏa mãn các điều kiện trên. Thông thường tốc độ dắt lưới đối với tôm là 2-3 km/giờ; và đối với cá là 6-8 km/giờ.</para>
+        <list id="id8646830" list-type="bulleted">
+          <item>Hướng dắt lưới</item>
+        </list>
+        <para id="id9153496">Khi dắt lưới nên chọn hướng dắt sao cho bám đúng luồng di chuyển của đối tượng khai thác hoặc chọn đúng độ sâu đối tượng khai thác đang ở. Độ sâu này có liên quan đến chu kỳ sống, thức ăn, độ mặn, chất nền đáy của đối tượng khai thác, độ sâu cư trú thường biến đổi sau vài ngày. Ngoài ra hướng dắt lưới còn phải tính đến các chướng ngại vật trong quá trình dắt lưới, tránh xảy ra sự cố cho tàu và lưới.</para>
+        <para id="id9115929">Trong thời gian dắt lưới chỉ cần cử người trực lái và theo dõi tình hình hoạt động của lưới. Người có nhiệm vụ trực nên để ý tình hình trong khu vực đang khai thác, để ý các tàu bè khác xung quanh và các ngư cụ khác như lưới rê, nghề câu,... tránh xãy ra va chạm hoặc kéo cắt đứt các ngư cụ khác trên đường di chuyển của tàu.</para>
+      </section>
+      <section id="id-557072217074">
+        <title>Thu lưới và bắt cá</title>
+        <para id="id9432724">Bước tiếp theo sau thời gian dắt lưới là thời gian thu lưới và bắt cá. Để thu lưới trước hết ta cần giảm tốc độ, cắt ly hợp chân vịt, tiếp đó ta cho máy tời thu cáp hoạt động để thu cáp kéo, tời sẽ thu dần dây cáp kéo quấn lên tang tời, 2 ván lưới và vàng lưới khi đó cũng được thu dần lên. </para>
+        <para id="id8920668">Trong thời gian máy tời hoạt động nên chú ý tình trạng của ván lưới, xem chừng coi 1 trong 2 hoặc cả 2 ván lưới có thể bị cắm xuống bùn hay không, nếu ván cắm bùn thì sức chịu tải của máy tời sẽ tăng thêm, khi này dây cáp kéo được thu rất chậm hoặc không thu được cáp kéo, ta phải tìm các lui tàu lại và xử lý tình huống ván cắm bùn. </para>
+        <para id="id9487150">Nếu 2 ván hoạt động bình thường thì sau thời gian thu cáp ta sẽ thấy 2 ván từ từ được kéo kên mạn tàu. Khi 2 ván đã lên tới mạn tàu rồi thì cần 2 người đưa 2 ván vào giá treo ván an toàn, sau đó cho tàu chạy tới để rửa lưới, sau thời gian rửa lưới thì tiến hành thu lưới. Trước hết thu cánh lưới, rồi thân lưới và cuối cùng là đụt lưới, nếu đánh bắt lên tục ta chỉ cần thu đụt lưới lên tàu, để lại cánh và thân lưới trong nước. Sau khi thu đụt lưới ta tiến hành mở miệng đụt để xổ cá ra, rồi thắt miệng đụt lại đánh tiếp mẻ sau. Chú ý xem xét tình trạng lưới xem coi có bị rách không, nếu rách lưới phải vá ngay hoặc thay lưới khác.</para>
+        <para id="id9554916">Sau khi đã xổ cá ra thì tiến hành lựa, phân loại và rửa cá, sau đó cho vào hầm chứa bảo quản cá. Cá có thể bảo quản bằng muối hoặc nước đá để bán cá tươi.</para>
+        <para id="id8510480">Chú ý trong quá trình lựa cá nên xem xét tình trạng cá tươi để xác định thời gian và địa điểm khi cá vào lưới, nhằm xác định chính xác ngư trường và bãi cá.</para>
+      </section>
+    </section>
+  </content>
+</document>

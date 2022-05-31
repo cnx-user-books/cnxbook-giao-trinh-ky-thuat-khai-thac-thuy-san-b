@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lưới rê</title>
+  <metadata>
+  <md:content-id>m30655</md:content-id><md:title>Lưới rê</md:title>
+  <md:abstract>Lưới rê (hay còn gọi là lưới giăng hoặc lưới cản) là một trong những ngư cụ phổ biến của nước ta hiện nay, bởi sản lượng do nghề này đem lại đứng hàng thứ hai sau lưới kéo. Mặt khác, người ta còn thấy lươí rê có thể hoạt động ở rất nhiều thủy vực khác nhau như, ao, hồ, sông và biển. 
+Lưới rê có thể đánh bắt như là một ngư cụ cố định hoặc như là ngư cụ di động, có thể khai thác cả tầng mặt, tầng giữa và tầng đáy. Để có thể hiểu rõ lưới rê ta hảy xem các đặc tính và kỹ thuật khai thác nó thể hiện như sau.</md:abstract>
+  <md:uuid>6720a629-004a-477d-ac1e-4d3698c3fe5e</md:uuid>
+</metadata>
+
+<content>
+    <list id="id9631955" list-type="enumerated">
+      <item>Nguyên lý đánh bắt lưới Rê</item>
+    </list>
+    <para id="id9631962">Nguyên lý đánh bắt lưới rê theo nguyên tắc: “Lưới được thả chặn ngang đường di chuyển của cá. Cá trên đường đi sẽ bị vướng vào mắt lưới và bị giữ lại lưới”.</para>
+    <list id="id8881380" list-type="enumerated">
+      <item>Phân loại lưới rê</item>
+    </list>
+    <para id="id9521240">Người ta có thể dựa vào kết cấu của lưới, hoặc tầng nước hoạt động hoặc tính năng của lưới hay khu vực khai thác mà có thể phân lưới rê thành nhiều loại khác nhau, thể hiện qua Bảng 4.1:</para>
+    <table id="id9312966" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c4">Bảng 4.1 - Phân loại lưới rê theo kết cấu lưới, tầng nước hoạt động, tính vận động của lưới và ngư cụ khai thác</entry>
+          </row>
+          <row>
+            <entry>Kết cấu lưới</entry>
+            <entry>Tầng nước hoạt động</entry>
+            <entry>Tính vận động của lưới</entry>
+            <entry>Khu vực khai thác</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới rê 1 lớpLưới rê 3 lớpLưới rê khung</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới rê tầng mặtLưới rê tầng giữaLưới rê tầng đáy</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới rê cố địnhLưới rê trôi</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới rê ao, hồLưới rê sôngLưới rê biển</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <figure id="id9100064">
+      <media id="id1169634827850" alt=""><image src="../../media/graphics1-6701.png" mime-type="image/png" height="229" width="378"/></media>
+    </figure>
+    <list id="id9697716" list-type="enumerated">
+      <item>Cấu tạo lưới rê</item>
+    </list>
+    <list id="id9697724" list-type="bulleted">
+      <item>Chiều dài</item>
+    </list>
+    <para id="id7344404">Chiều dài lưới rê không nhất thiết là phải dài bao nhiêu thì vừa, chiều dài lưới rê phụ thuộc vào mức rộng lớn của khu vực khai thác, thủy vực càng rộng thì cho phép sử dụng lưới càng dài. </para>
+    <para id="id7344412">Tuy nhiên chiều dài lưới rê lại phụ thuộc vào qui mô sản xuất, nếu đánh bắt thủ công trong ao, hồ, kênh, rạch, sông nhỏ thì chiều dài thường từ 50-200 m, nhưng nếu đánh ngoài biển thì chiều dài có thể lên đến vài ngàn mét, có khi dài hơn 15 km.</para>
+    <list id="id3931767" list-type="bulleted">
+      <item>Chiều cao</item>
+    </list>
+    <para id="id9420141">Chiều cao lưới rê phụ thuộc vào độ sâu ngư trường khai thác và tầng nước mà đối tượng khai thác thường hoạt động. Ở vùng nước nông (ao, hồ, sông), độ cao lưới rê thường từ 2-5 m, nhưng ở biển khơi, nơi có độ sâu khá lớn thì người ta không thể chọn độ cao bằng độ sâu ngư trường mà chỉ có thể thiết kế lưới có độ cao ứng với độ dầy của đàn cá hoạt động, thường từ 5-15 m. Tuy vậy để đưa lưới đến đúng độ sâu cần thiết thì người ta thường phải kết hợp chiều cao lưới với việc điều chỉnh các dây phao ganh.</para>
+    <list id="id9420149" list-type="bulleted">
+      <item>Chọn kích thước mắt lưới</item>
+    </list>
+    <para id="id9202438">Kích thước mắt lưới Rê là thông số quan trọng trọng đánh bắt lưới rê. Mỗi loại lưới rê sẽ có kích thước mắt lưới khác nhau. Muốn đánh bắt cá lớn phải có kích thước mắt lưới lớn. </para>
+    <para id="id6097246">Tuy nhiên việc chọn kích thước mắt lưới rê phải căn cứ trên hình dạng của đối tượng khai thác, sao cho kích thước mắt lưới 4a phải lớn hơn chu vi mặt cắt ngang sau xương nắp mang của cá và phải nhỏ hơn chu vi mặt cắt ngang trước gai lưng của cá</para>
+    <figure id="id9670150">
+      <media id="id1169637549503" alt=""><image src="../../media/graphics2-b683.png" mime-type="image/png" height="205" width="332"/></media>
+    </figure>
+    <list id="id9086781" list-type="bulleted">
+      <item>Hệ số rút gọn</item>
+    </list>
+    <para id="id9744418">Việc xác định hệ số rút gọn trong lưới rê là nhằm làm cho hình dạng của mắt lưới rê có dạng sao cho càng gần giống với dạng diện tích mặt cắt ngang của cá càng tốt, bởi khi đó cá sẽ dễ dàng đóng vào mắt lưới. Do vậy, trong lưới rê hệ số rút gọn được chọn hài hòa theo hình dạng của đối tượng khai thác, hệ số rút gọn phù hợp sẽ làm tăng hiệu quả đánh bắt của lưới rê, ngược lại hiệu quả khai thác sẽ kém.</para>
+    <para id="id9613155">Chẳng hạn, đối với cá có mặt cắt ngang có dạng chiều cao thân lớn hơn chiều ngang (cá thu, cá bạc má,...) thì ta nên chọn hệ số rút gọn ngang nhỏ, khi đó mắt lưới có dạng hình thoi đứng; ngược lại, nếu cá có mặt cắt ngang thể hiện chiều cao thân nhỏ hơn chiều ngang (cá bơn, cá đuối,...) thì ta nên chọn hệ số rút gọn ngang lớn, khi đó mắt lưới có dạng hình thoi ngang.</para>
+    <para id="id9625032">Ta có thể xác định hệ số rút gọn ngang theo tỉ lệ sau:</para>
+    <para id="id8887862">
+      <m:math>
+        <m:semantics>
+          <m:mrow/>
+          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi>A</m:mi>
+                      <m:mi>B</m:mi>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mi>n</m:mi>
+                      <m:mi>m</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:msub>
+                    <m:mi>U</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {A}  over  {B} } = {  {n}  over  {m} } =U rSub { size 8{1} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="id7344976">(4.1)<media id="id1169637519847" alt=""><image src="../../media/graphics3-2e69.png" mime-type="image/png" height="238" width="246"/></media></para>
+    <para id="id9393479">ở đây: </para>
+    <para id="id9393486">A - là chiều ngang mắt cắt cá</para>
+    <para id="id9399858">B - là chiều cao mắt cắt cá</para>
+    <para id="id8881175">n - là số mắt lưới theo chiều ngang</para>
+    <para id="id7344388">m - là số mắt lưới theo chiều cao </para>
+    <list id="id9533217" list-type="enumerated">
+      <item>Kỹ thuật đánh bắt lưới rê</item>
+    </list>
+    <para id="id9533226">Kỹ thuật đánh bắt lưới rê là một loạt các bước cần thiết nhằm đảm bảo cho một chu kỳ khai thác lưới rê có hiệu quả, tiến trình này tính từ khâu chuẩn bị ở bờ cho đến khi một mẽ khai thác kết thúc, bao gồm các bước sau: Chuẩn bị; thả lưới; trôi lưới; thu lưới và bắt cá.</para>
+    <list id="id9503831" list-type="bulleted">
+      <item>Chuẩn bị</item>
+    </list>
+    <para id="id9503837">Bao gồm chuẩn bị ở bờ và ở ngư trường trước khi mẽ khai thác thực sự bắt đầu.</para>
+    <list id="id8874583" list-type="bulleted">
+      <item>Chuẩn bị ở bờ</item>
+    </list>
+    <para id="id8874592">Trước khi ra khơi, một số công việc cần thiết phải chuẩn bị và kiểm tra sau:</para>
+    <list id="id9486951" list-type="bulleted">
+      <item>Tàu, máy nên được kiểm tra lại, nếu có hư hỏng (hoặc dự đoán là có thể bị hư hỏng trong quá trình đánh bắt sắp tới) thì nên sửa chữa, tăng cường hoặc gia cố trước khi đi. Lưới cũng nên kiểm tra lại, nếu thấy rách hoặc mục nhiều quá thì nên vá hoặc thay thế lưới mới.</item>
+      <item>Xăng, dầu, nước đá, muối, lương thực, thực phẩm, thuốc men,... cần được chuẩn bị đầy đủ cho một chuyến đi dài ngày.</item>
+    </list>
+    <list id="id9552625" list-type="bulleted">
+      <item>Chuẩn bị ở ngư trường. </item>
+    </list>
+    <para id="id9508848">Khi đã đến ngư trường, trước khi thả lưới ta cần xem xét, tính toán các điều kiện thực tế ở ngư trường, bao gồm:</para>
+    <list id="id9508857" list-type="bulleted">
+      <item>Đo đạc hoặc dự đoán độ sâu ngư trường và độ sâu mà đối tượng khai thác có thể xuất hiện. Khi này ta điều chỉnh (nới dài ra hoặc thu ngắn lại) dây phao ganh nhằm đưa lưới đến đúng độ sâu mà đàn cá đang hoạt động. Trong trường hợp đàn cá ở gần nền đáy ta cũng nên xem xét khả năng giềng chì có thể bị vướng chướng ngại vật nền đáy mà điều chỉnh dây phao ganh phù hợp.</item>
+      <item>Dự đoán hướng di chuyển của đàn cá. Công tác thả lưới phải đảm bảo thả chặn ngang được đường di chuyển của cá.</item>
+      <item>Xem xét hướng dòng chảy (hướng nước) và hướng gió, cũng như tốc độ của gió và nước để chọn mạn thả lưới và hướng thả cho phù hợp, sao cho lưới không bị tắp (vướng) vào chân vịt tàu.</item>
+    </list>
+    <para id="id7829218">Sau khi đã xem xét, đánh giá các điều kiện ngư trường thì ta bắt đầu thả lưới.</para>
+    <list id="id9128748" list-type="bulleted">
+      <item>Thả lưới</item>
+    </list>
+    <para id="id7963027">Trong quá trình thả lưới người thuyển trưởng nên cẩn thận, cho tàu chạy với tốc độ chậm, điều khiển hướng thả lưới ngang với dòng chảy và chú ý coi chừng lưới tắp vào chân vịt. Khi này người thủy thủ cố gắng ném lưới ra xa tàu và đảm bảo lưới không bị rối và tránh mắt lưới móc vào nút áo người đang thao tác thả lưới. </para>
+    <para id="id9738082">Nếu có sự cố gì phải dừng tàu lại ngay và xử lý, cần đảm bảo nguyên tắc là “tàu dưới gió và lưới dưới nước”, nghĩa là luôn để cho mạn làm việc của tàu nằm phía dưới gió (để gió thỏi bãt tàu ra xa lưới) và lưới ở phía cuối nước (để nước đạp lưới ra xa tàu) theo hình </para>
+    <figure id="id8806249">
+      <media id="id1169637520981" alt=""><image src="../../media/graphics4-334c.png" mime-type="image/png" height="240" width="298"/></media>
+    </figure>
+    <para id="id9079990">(H 4.4). Thả cho trường hợp này có thể tránh cho lưới khỏi quấn chân vịt.</para>
+    <figure id="id9698745">
+      <media id="id1169637521024" alt=""><image src="../../media/graphics5-a695.png" mime-type="image/png" height="198" width="432"/></media>
+    </figure>
+    <list id="id9370503" list-type="bulleted">
+      <item>Một số phương pháp thả lưới thông thường</item>
+    </list>
+    <para id="id9021769">Ta có một số cách thả lưới thường gặp sau: Thả ngang gió; thả xuôi gió; thả zig-zag.</para>
+    <para id="id9660034">+ Thả ngang gió</para>
+    <para id="id9660037">Trong trường hợp hướng gió và hướng nước ngược chiều nhau và chiều dài lưới không lớn, ta có thể thả ngang gió theo sơ đồ (H 4.5). Thả cho trường hợp này có thể tàu cho chạy với tốc độ chậm, nhưng chú ý quan sát coi chừng lưới quấn chân vịt.</para>
+    <para id="id9021694">+ Thả xuôi gió</para>
+    <para id="id9021698">Trường hợp này khi gió, nước vuông góc nhau, tốc độ gió là nhỏ so với tốc độ dòng chảy, ta thả theo dạng sơ đồ sau (H 4.6). Thả cho trường hợp nàt có thể lợi dụng sức gió để đẩy tàu. </para>
+    <figure id="id9421281">
+      <media id="id1169637583304" alt=""><image src="../../media/graphics6-82c9.png" mime-type="image/png" height="468" width="577"/></media>
+    </figure>
+    <para id="id8893152">Trường hợp thả zig-zag áp dụng khi gió thôi xuôi tàu, tốc độ gió trung bình. Ta có các bước sau:</para>
+    <list id="id9411066" list-type="bulleted">
+      <item>Khi tàu đến vị trí A ta bắt đầu thả lưới chậm và cẩn thận. </item>
+      <item>Khi tàu đến vị trí B thì cắt ly hợp chân vịt, tàu đi tới bằng trớn tới, với ảnh hưởng của trớn và gió, lưới sẽ được thả ra theo hướng B-C. </item>
+    </list>
+    <list id="id9426864" list-type="bulleted">
+      <item>Khi đến vị trí C, tàu hết trớn, ta đóng ly hợp lại và thả lưới theo hướng C-D. </item>
+      <item>Khi đến vị trí D tàu đã có đủ trớn tới ta cũng cắt ly hợp và cũng dưới ảnh hưởng của trớn tới và nước lưới sẽ được thả theo hướng D-E. </item>
+    </list>
+    <para id="id8787937">Lần lượt làm tương tự đến khi nào toàn bộ vàng lưới thả xong. Thời gian thả lưới đối với một vàng lưới rê thường là từ 0.5-1 giờ. Thả cho trường hợp này ta có thể tranh thủ được trớn đi tới của tàu (không phải cho chân vịt quay) có thể tránh được sự cố lưới quấn chân vịt. </para>
+    <list id="id9609336" list-type="bulleted">
+      <item>Trôi lưới</item>
+    </list>
+    <para id="id7883956">Sau giai đoạn thả lưới là đến thời gian trôi lưới. Thời gian trôi lưới là thời gian lưới được ngâm thả trôi trong nước cũng chính là thời gian khai thác (thời gian cá đóng vào lưới). Thời gian trôi lưới tùy thuộc vào ý muốn của người khai thác, ở ngoài biển, thời gian trôi lưới thường tính từ lúc mặt trời lặn cho đến khoảng 11-12 giờ khuya, khoảng sau 4-5 giờ thì bắt đầu thu lưới. </para>
+    <para id="id8655198">Trong thời gian này công việc tương đối nhàn hạ, chỉ cần cử 1-2 người trực theo dõi quan sát lưới và tình hình khu vực xung quanh. Một số công việc cần chú ý trong thời gian này là:</para>
+    <list id="id9330975" list-type="bulleted">
+      <item>Xem xét tính trạng trôi của lưới, để kịp điều chỉnh phương thả lưới sao cho cắt ngang đường di chuyển của cá, ta thường gặp hai trường hợp b và c như sau (H 4.9):</item>
+    </list>
+    <para id="id9645275">Trường hợp (a): là bình thường.</para>
+    <para id="id7836326">Trường hợp (b): Trường hợp này nước đẩy phần lưới ở gần tàu trôi nhanh hơn phần đầu lưới. Để khắc phục trường hợp này ta cho tàu chạy lên phía trước, đến khi nào 2 đầu phần lưới ngang nhau.</para>
+    <figure id="id9696303">
+      <media id="id1169634827254" alt=""><image src="../../media/graphics7.png" mime-type="image/png" height="310" width="309"/></media>
+    </figure>
+    <para id="id9597502">Trường hợp (c): Trường hợp này nước đẩy phần lưới ở gần phao đầu lưới trôi nhanh hơn phần đầu tàu. Để khắc phục trường hợp này ta cho tàu chạy lùi lại phía sau, đến khi nào 2 đầu phần lưới ngang nhau.</para>
+    <list id="id9100010" list-type="bulleted">
+      <item>Xem xét, so sánh với hải đồ để đánh giá xem coi lưới trong quá trình trôi có đi qua vùng có chướng ngại vật nền đáy hay không để kịp thời điều chỉnh hoặc thu lưới.</item>
+      <item>Xem xét các phương tiện, tàu bè đi lại xung quanh gần khu vực ta thả lưới, nếu có khả năng tàu bạn cắt ngang hướng thả lưới của ta thỉ kịp thời báo động cho bạn biết là ta đang thả lưới để tàu bạn tìm cách tránh cắt lưới.</item>
+      <item>Thu lưới và bắt cá</item>
+    </list>
+    <para id="id7987056">Sau thời gian thả lưới thì đến giai đoạn thu lưới và bắt cá. Đây là công đoạn nặng nhọc nhất, cần rất nhiều người: 3-4 người kéo lưới, 1-2 người gỡ cá và 1 người điều khiển tàu chạy dọc theo chiều dài giềng phao với tốc độ chậm để giúp thu lưới nhanh và giảm được lực thu kéo lưới. </para>
+    <para id="id9437481">Trong quá trình thu lưới và bắt cá ta có thể:</para>
+    <para id="id7842476">+ Vừa thu lưới, vừa bắt cá nếu cá đóng ít và đóng rãi rác suốt chiều dài vàng lưới.</para>
+    <para id="id7842484">+ Thu lưới trước, bắt cá sau nếu cá nhiều và gỡ không kịp. Khi này ta vẫn tiếp tục gỡ cùng lúc với thu lưới, nhưng gỡ được bao nhiêu thì hay bấy nhiêu, còn lại thì sau khi thu lưới xong sẽ gỡ tiếp.</para>
+    <list id="id8658477" list-type="bulleted">
+      <item>Các chú ý khi thu lưới, bắt cá .Ta nên xem xét:</item>
+    </list>
+    <para id="id9170323">+ Vùng cá đóng</para>
+    <para id="id9170328">Trong quá trình thu lưới ta nên chú ý đến vùng cá đóng là: Đóng đầu lưới hay cuối lưới; đóng ở giềng phao hay giềng chì, nhằm điều chỉnh lưới thích hợp hơn ở lần khai thác tiếp theo.</para>
+    <para id="id8814071">Nếu cá đóng ở đầu lưới, thì có lẽ ta đã bủa lưới trật vùng cá xuất hiện, mà lẽ ra ban đầu lưới nên được thả lùi lại một đoạn, khi đó có thể ta sẽ được cá nhiều hơn (H 4.10a). </para>
+    <figure id="id9515733">
+      <media id="id1169635157781" alt=""><image src="../../media/graphics8.png" mime-type="image/png" height="203" width="297"/></media>
+    </figure>
+    <para id="id9390825">Tương tự, trường hợp cá đóng ở cuối lưới, thì lẽ ra lưới nên dành nhiều lưới để bủa thêm ở khu vực này thay vì ta đã bủa quá xa đàn cá (H 4.10b).</para>
+    <para id="id8806106">Nếu cá đóng ở giềng phao, có lẽ ta đã cho lưới xuống quá sâu, lẽ ra ta nên thu ngắn dây phao ganh để lưới lên cao hơn (H 4.10c).</para>
+    <para id="id9478586">Ngược lại, nếu cá đóng ở giềng chì, có lẽ ta đã cho lưới chưa xuống đúng độ sâu mà cá xuất hiện, lẽ ra ta nên nới fài thêm dây phao ganh (H 4.10d).</para>
+    <figure id="id9166702">
+      <media id="id1169635147959" alt=""><image src="../../media/graphics9.png" mime-type="image/png" height="171" width="308"/></media>
+    </figure>
+    <para id="id9338682">+ Tình trạng cá lúc bắt </para>
+    <para id="id9154561">Tương tự, ta nên chú ý tình trạng cá lúc bắt là: Cá còn tươi hay sống hay cá đã chết lâu rồi. Lý do là để biết thời gian cá đóng là khi nào, cá vừa mới đóng hay đã đóng từ lâu, để xác định thời điểm thả lưới cho thích hợp cho lần sau.</para>
+    <list id="id9154568" list-type="bulleted">
+      <item>Nếu cá còn tươi hoặc sống, nghĩa là cá vừa mới đóng vào lưới, khi này lẽ ra chưa nên thu lưới sớm mà nên chờ thêm thời gian nữa để được cá đóng nhiều hơn.</item>
+      <item>Nếu cá đã chết lâu rồi, có nghĩa là ta bủa lưới hơi muộn, đáng lý ra ta nên bủa lưới sớm hơn.</item>
+    </list>
+  </content>
+</document>

@@ -1,0 +1,253 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Xơ, sợi chỉ lưới</title>
+  <metadata>
+  <md:content-id>m30592</md:content-id><md:title>Xơ, sợi chỉ lưới</md:title>
+  <md:abstract/>
+  <md:uuid>c32f9eb2-f55a-480e-ac39-b5e5baa10f20</md:uuid>
+</metadata>
+
+<content>
+    <list id="id9584282" list-type="enumerated">
+      <item>Xơ</item>
+    </list>
+    <para id="id9584288">Xơ có cấu tạo từ các cao phân tử dạng mạch dài, ít chi nhánh. Nhờ lực liên kết của các cao phân tử này tương đối lớn, nên xơ có cường độ đứt là khá lớn. Xơ là thành phần cơ bản ban đầu để chế tạo nên sợi và chỉ lưới. </para>
+    <para id="id8881590">Xơ có độ dài và các tính chất cơ, lý, hóa học phụ thuộc vào nguyên liệu cấu thành nên xơ, khi thay đổi một thành phần phân tử có trong xơ ta sẽ tạo ra một xơ mới.</para>
+    <para id="id9638712">* Phân loại xơ</para>
+    <para id="id9357544">Người ta có thể phân loại xơ theo nguyên liệu hoặc theo chiều dài của xơ (B 1.1).</para>
+    <table id="id8889113" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Bảng 1.1 - Bảng phân loại xơ theo nguyên liệu và theo chiều dài xơ</entry>
+          </row>
+          <row>
+            <entry>Theo nguyên liệu</entry>
+            <entry>Theo chiều dài</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Xơ thực vật: Bông, đay, gai, chuối,...Xơ động vật: Tơ tằm, tơ nhện,...Xơ khoáng vật: Xơ amiang,...Xơ tổng hợp: Nylon, polyethylene, PVC,...</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Xơ ngắn: có độ dài khoảng vài cm, chẳng hạn: BôngXơ dài trung bình: có độ dài khoảng vài chục cm, chẳng hạn: Đay, chuối, dứa,...Xơ dài: có độ dài khoảng vài trăm cm. Chẳng hạn: Tơ tằm,...Xơ dài tùy ý: là các xơ tổng hợp.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id7833764" list-type="enumerated">
+      <item>Sợi</item>
+    </list>
+    <para id="id9537966">Sợi là nguyên liệu cơ bản được dùng trong việc chế tạo ngư cụ, ngoài ra sợi còn có thể dùng để bện, buộc trong các hoạt động khác. Sợi có thể trực tiếp dùng để đan lưới hoặc được se xoắn thêm (một hay nhiều lần) để tạo nên chỉ hoặc thừng.</para>
+    <para id="id6460114">Bởi sợi có cấu tạo chủ yếu từ xơ nên các tính chất lý, hoá học của sợi thì giống như các tính chất của xơ, nhưng về mặt cơ học thì có khác đi, chẳng hạn độ bền (hay cường độ đứt) tương đối của sợi thì lớn hơn xơ.</para>
+    <list id="id9503172" list-type="bulleted">
+      <item>Phân loại sợi</item>
+    </list>
+    <para id="id7326410">Người ta có thể phân loại sợi theo nguyên liệu hoặc theo cấu tạo của sợi (B 1.2).</para>
+    <table id="id8897619" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Bảng 1.2 - Phân loại sợi theo nguyên liệu và theo cấu tạo sợi</entry>
+          </row>
+          <row>
+            <entry>Theo nguyên liệu</entry>
+            <entry>Theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Sợi thực vậtSợi động vậtSợi khoáng vậtSợi tổng hợp</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Sợi thô: được cấu tạo từ các xơ ngắn và được se xoắn mà thành. Bản thân sợi thô chưa thể trực tiếp đan lưới được, mà phải được se thành chỉ rồi mới có thể dùng đan lưới.Sợi nguyên: bản thân sợi nguyên là từ các xơ dài hoặc do kéo từ nhựa tổng hợp mà thành (sợi cước). Sợi nguyên có thể trực tiếp dùng để buộc hoặc đan lưới được.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id9486927" list-type="enumerated">
+      <item>Chỉ lưới</item>
+    </list>
+    <para id="id6915021">Chỉ lưới là thành phần cơ bản để tạo nên lưới. Ngoài ra chỉ lưới còn được dùng để buộc, liên kết các phần lưới hoặc dây giềng với nhau. Do chỉ lưới được cấu tạo từ sợi và xơ nên các tính chất vật lý, hoá học của chỉ cũng giống như sợi và xơ nhưng cường độ đứt tương đối của chỉ thì lớn hơn nhiều lần so với sợi và xơ. </para>
+    <para id="id9620438">Tùy theo phương thức se xoắn mà chỉ còn được gọi chỉ se đơn, chỉ se kép, chỉ se 3 lần hay được gọi chỉ se thuận (chiều phải) hoặc chỉ se nghịch (chiều trái). </para>
+    <para id="id9016427">* Phân loại chỉ</para>
+    <para id="id7759032">Người ta có thể phân loại sợi theo nguyên liệu hoặc theo cấu tạo của sợi (B 1.3).</para>
+    <table id="id9782169" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Bảng 1.3 - Phân loại chỉ theo nguyên liệu và theo cấu tạo của chỉ</entry>
+          </row>
+          <row>
+            <entry>Theo nguyên liệu</entry>
+            <entry>Theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Chỉ thực vật.Chỉ tổng hợp.</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Chỉ se đơn: trước hết các xơ hoặc sợi đơn được chãi, chắp nối và xếp song song nhau, sau đó được se theo chiều phải hoặc trái qua một lần se mà thành.Ký hiệu: Z hoặc S
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Chỉ se kép: trước hết các chỉ se đơn có cùng chiều xoắn, được sắp song song nhau, sau đó qua một lần se ngược chiều với chiều xoắn trước đó mà thành.Ký hiệu: Z/S hoặc S/ Z
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Chỉ se 3 lần: quá trình tương tự chỉ se 2 lần, trước hết các chỉ se kép có cùng chiều xoắn, được sắp song song nhau, sau đó qua một lần se ngược chiều với chiều xoắn của chỉ se kép mà thành.Ký hiệu: S/Z/S hoặc Z/S/Z</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id9533036">* Các ký hiệu biểu thị kết cấu của chỉ</para>
+    <para id="id9431837">Trong thực tế ta thường gặp các loại chỉ có độ thô khác nhau, đôi khi rất khó phân biệt độ thô của chúng. Do vậy người ta dùng ký hiệu qui ước để biểu thị kết cấu của chỉ để phân biệt giữa các loại chỉ. Ta có 2 hệ thống quốc tế thường được dử dụng:</para>
+    <list id="id9431841" list-type="bulleted">
+      <item>Hệ thống Denier.</item>
+    </list>
+    <para id="id8153472">Hệ thống Denier dùng chiều dài 9.000 m các sợi con có trong chỉ để biểu thị. Nếu cân trọng lượng của 9.000 m sợi này ta có thể biểu thị được công thức kết cấu của chỉ.</para>
+    <list id="id9167530" list-type="bulleted">
+      <item>Hệ thống Text.</item>
+    </list>
+    <para id="id9490786">Tương tự hệ thống Text dùng chiều dài 1.000 m sợi con có trong chỉ để biểu thị. Nếu ta cũng cân trọng lượng của 1.000 m sợi này thì ta có thể biểu thị được công thức kết cấu của chỉ.</para>
+    <para id="id8801551">Thí dụ: Khi ta nhìn vào nhãn của một loại chỉ nào đó, ta thấy ký hiệu:</para>
+    <para id="id9545689">210 D/9hoặc210D/3 x 3 hoặc 210D/12 hay 210D/ 4 x 3.</para>
+    <para id="id8909153">Từ ký hiệu: 210D/9 hoặc 210D/12, ta thấy ký hiệu này có nghĩa là nếu ta cân 9.000 mét chiều dài của sợi con có trong chỉ đó ta sẽ có trọng lượng 210 gram. Còn số 9 hoặc số 12 ở đây có nghĩa là trong sợi chỉ mà ta đang xét có 9 hoặc 12 sợi con được se xoắn lại với nhau. </para>
+    <para id="id8909162">Từ ký hiệu: 210D/3x3 hoặc 210D/3 x 4 thì ký hiệu 3 x 3 hoặc 3 x 4 tương ứng có nghĩa rằng trong chỉ đó cũng bao gồm 9 sợi con nhưng được diễn tả cụ thể hơn, nói lên chỉ này được se 2 lần (se kép) lần thứ nhất gồm 3 sợi con hoặc 4 sợi con se lại thành chỉ se đơn, sau đó 3 chỉ se đơn cùng chiều xoắn được xếp song song nhau để se thêm lần nữa mà thành chỉ se kép. </para>
+    <para id="id6481036">Chú ý: </para>
+    <para id="id6829626">Bởi qua nhiều lần se xoắn nên cường độ đứt tương đối của chỉ se kép (hoặc se 3 lần) sẽ tăng lên, nhưng cường độ đứt tuyệt đối (nghĩa là tổng các cường độ đứt của các thành phần sợi có trong chỉ) sẽ không bằng tổng các cường độ đứt của từng sợi chỉ thẳng ban đầu, do đã làm thay đổi kết cấu của xơ, sợi trong quá trình se xoắn.</para>
+    <para id="id8807120">Để có thể hình dung ra quá trình chế tạo nên sợi, chỉ và thừng ta có thể thấy qua sơ đồ sau (H 1.1).</para>
+    <table id="id9001820" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Xơ </entry>
+            <entry>Sợi </entry>
+            <entry>Chỉ </entry>
+            <entry>Thừng</entry>
+          </row>
+          <row>
+            <entry>Xơ dàihoặcxơ ngắn(xếp //, đấu chắp, se xoắn)</entry>
+            <entry>Sợi nguyênhoặcSợi thô(xếp //, se xoắn)</entry>
+            <entry>Chỉ se đơn,Chỉ se kép,Chỉ se 3 lần(Se ngược chiều xoắn)</entry>
+            <entry>Thừng se đơn,Thừng se kép</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c4">H 1.1 - Sơ đồ chế tạo sợi, chỉ và thừng</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id8802828" list-type="enumerated">
+      <item>Thừng</item>
+    </list>
+    <para id="id5397380">Thừng cũng là nguyên vật liệu hoặc là công cụ chủ yếu trong các hoạt động nghề cá và trong các ngành khác. Thừng thường được dùng trong các công việc cần sức chịu lực lớn, chẳng hạn dùng làm dây giềng lực hoặc dây cáp kéo trong quá trình chế tạo nên các vàng lưới. Hoặc dùng để liên kết giữa tàu với neo (dây neo) hay dùng để cố định tàu (dây cột tàu),...</para>
+    <para id="id9670522">Trong quá trình gia công chế tạo, thừng được tạo thành bằng cách chấp nối, xếp song song nhau với số lượng lớn các xơ hoặc sợi rồi qua một hoặc hai lần se xoắn mà thành. Do vậy cũng giống như chỉ, thừng cũng còn được phân biệt thành thừng se đơn và thừng se kép hiếm khi có thừng se ba lần. Các tính chất vật lý, hoá học của thừng cũng tương tự như của xơ, sợi và chỉ lưới. </para>
+    <para id="id9750213">* Phân loại thừng</para>
+    <para id="id7829755">Tương tự, người ta cũng có thể phân loại thừng theo nguyên liệu hoặc theo cấu tạo (B 1.3).</para>
+    <table id="id7829763" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">.Bảng 1.3 - Phân loại thừng theo nguyên liệu và theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>Theo nguyên liệu</entry>
+            <entry>Theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Thừng thực vật
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Thừng tổng hợp</entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Thừng se đơn: các xơ được tập họp với số lượng lớn hoặc các chỉ có cùng chiều xoắn được xếp song song nhau và qua một lần se xoắn mà thành.Ký hiệu: Z hoặc S
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Thừng se kép: gồm các thừng se đơn cùng chiều xoắn được xếp song song nhau và qua se xoắn thêm một lần với chiều ngược chiều se đơn mà thành.Ký hiệu: Z/S hoặc S/Z </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id9573297" list-type="enumerated">
+      <item>Cáp</item>
+    </list>
+    <para id="id8665708">Cáp có chức năng như thừng, cũng được dùng vào các mục đích cần lực chịu tải lớn và làm việc được trong các môi trường khắc nghiệt. Nhưng khác biệt cơ bản giữa cáp và thừng ở chổ là cáp được tạo thành bởi các sợi kim loại có đường kính =(0,2-5) mm, các sợi kim loại nhỏ này được xếp song song với số lượng lớn và được se qua một hoặc hai lần mà ta có cáp se 1 lần hoặc cáp se 2 lần. </para>
+    <para id="id9727376">Sức chịu lực của cáp lớn hơn thừng nếu xét ở cùng đường kính. Tuy vậy cáp cũng có các ưu, nhược điểm sau:</para>
+    <para id="id9825268">Ưu điểm: + Cáp có độ bền cơ học lớn.</para>
+    <para id="id9262324">+ Chịu được tải trọng nặng.</para>
+    <para id="id9685936">+ Làm việc tốt trong môi trường ẩm ướt.</para>
+    <para id="id9573490">Nhược điểm: + Dễ bị gỉ sét.</para>
+    <para id="id9069735">+ Khó bảo quản trong môi trường ẩm.</para>
+    <para id="id7883664">+ Khi bị đứt thì khó nối, phải sử dụng phương pháp nối đặc biệt.</para>
+    <para id="id9586038">+ Dễ gây ra tai nạn lao động.</para>
+    <para id="id7883671">* Các chú ý khi làm việc với cáp</para>
+    <para id="id9542299">+ Khi cáp bị gỉ, các sợi thép con có thể bị bong ra, rất dễ đâm vào tay, do vậy khi làm việc với cáp nên có găng tay bảo hộ lao động.</para>
+    <para id="id9255436">+ Không đứng dưới cáp và dọc theo đường sinh lực của cáp khi cáp đang hoạt động, phải có mũ bảo hộ lao động.</para>
+    <para id="id9255446">* Phân loại cáp</para>
+    <para id="id8872265">Người ta cũng có thể phân loại cáp theo nguyên liệu hoặc theo cấu tạo.</para>
+    <table id="id8872273" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Bảng 1.4 - Phân loại cáp theo nguyên liệu và theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>Theo nguyên liệu</entry>
+            <entry>Theo cấu tạo</entry>
+          </row>
+          <row>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cáp thép.
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cáp hổn hợp+ Cáp thép có lõi thực vật (tẩm dầu)+ Cáp thép có vỏ cao su bọc ngoài. </entry>
+            <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cáp se 1 lần
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Cáp se 2 lần</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id7230726" list-type="enumerated">
+      <item>Vấn đề bảo quản ngư cụ</item>
+    </list>
+    <para id="id8386754">Ngư cụ trong hoạt động sản xuất nghề cá là các vật tư, nguyên vật liệu từ các xơ, sợi thực vật, tổng hợp hoặc kim loại nên chúng thường bị hư hỏng, mất phẩm chất hoặc dễ bị gỉ sét. Chúng thường làm việc với lực căng lớn và trong điều kiện bị nhiều tác động xấu của môi trường xung quanh, chẳng hạn có lúc chúng làm việc ở những nơi có độ ẩm cao; đôi lúc chúng bị phơi trực tiếp ra dưới ánh nắng của mặt trời, cũng có lúc bị bỏ xó trong góc, kẹt để cho côn trùng, chuột bọ dễ cắn phá,... do đó ngư cụ rất dễ bị hao mòn, biến chất, hư hỏng, rách nát không phục hồi lại được.</para>
+    <para id="id8386757">Để có thể sử dụng lâu dài các ngư cụ, việc hiểu rõ các tính năng, tính chất của nguyên liệu cấu thành nên ngư cụ, các điều kiện cần thiết để ngư cụ có thể hoạt động lâu bền là công việc mà người sử dụng và quản lý ngư cụ phải làm. </para>
+    <para id="id9146693">Cụ thể đối với công tác bảo quản là cần chú ý như sau.</para>
+    <list id="id8387998" list-type="bulleted">
+      <item>Bảo quản ngư cụ và các vật tư, nguyên liệu cấu thành ngư cụ</item>
+    </list>
+    <list id="id9120098" list-type="enumerated">
+      <item>Xơ, sợi, chỉ lưới, phao nhựa,... phải để nơi râm mát, thoáng gió. Tránh để nơi có ánh sáng mặt trời trực tiếp chiếu vào, không nên để trên nền đất ẩm ướt hoặc gần nơi nóng ẩm hoặc ngọn lửa, bởi vì ánh sáng mặt trời, độ nóng và ẩm có thể làm cho các cho các nguyên liệu, vật tư này mau bị lão hóa, biến chất hoặc bốc cháy.</item>
+      <item>Nếu là kim loại phải được tháo rời, tách để riêng khỏi vàng lưới, nên tẫm dầu chống sét và treo mắc lên cao.</item>
+      <item>Ngư cụ sau khi sử dụng xong phải rữa sạch, loại bỏ rác bẩn dính vào, đem hong khô và treo mắc lên cao. Lưới làm việc lâu ngày nên nhuộm lại để tăng tính bền, dẽo vốn có của lưới và nhằm diệt khuẩn ký sinh trong ngư cụ.</item>
+      <item>Nếu ngư cụ không làm việc thường xuyên, thì sau khi mỗi lần làm xong nên tháo rời các trang thiết bị, phụ tùng ra khỏi lưới, gỡ bỏ các tạp chất dính vào ngư cụ (rác, cá thối,...). Tiếp đến rữa sạch ngư cụ bằng nước muối để diệt khuẩn (nếu có thể được), sau đó rữa lại bằng nước sạch. Lưới phải được treo lên giá, hong khô để tránh chuột bọ làm nơi trú ẩn và cắn phá lưới.</item>
+      <item>Nhà xưởng để bảo quản ngư cụ</item>
+    </list>
+    <para id="id8894949">Nhà xưởng dùng để bảo quản ngư cụ là nơi cần thiết cho các hoạt động giữ gìn và bảo quản ngư cụ. Nhà xưởng bảo quản có đạt yêu cầu thì ngư cụ mới có thể bảo quản tốt. Tùy theo số lượng và tầm quan trọng của ngư cụ cần bảo quản mà ta có thể thiết kế nhà bảo quản sao cho phù hợp, nhưng nhìn chung nhà xưởng cần đạt các yêu cầu sau:</para>
+    <list id="id8894953" list-type="enumerated">
+      <item>Nền nhà phải cao ráo, trán xi măng có độ dốc thoát nước tốt để tránh ẩm ướt nền nhà.</item>
+      <item>Phải xây tường cao, chống chuột bọ đột nhập vào cắn phá ngư cụ và phải có ván cách nhiệt.</item>
+      <item>Mái nhà nên lợp ngói, không nên lợp tôn, để tránh nhiệt độ tăng lên đột ngột.</item>
+      <item>Phải có cửa chớp (cửa lá sách) để thoáng gió và ánh sáng có thể đi vào, nếu có thể được nên trang bị máy điều hòa nhiệt độ.</item>
+      <item>Nên kiểm tra thường xuyên và định kỳ nhà xưởng và trang thiết bị để kịp thời phát hiện hư hỏng và xử lý.</item>
+      <item>Cần có bảng thông báo, hướng dẫn cách sử dụng và bảo quản cho từng loại trang thiết bị, cách phòng chống khi có sự cố xãy ra đối với vật tư, thiết bị bảo quản.</item>
+    </list>
+    <para id="id9076414">Trên đây là một số yêu cầu cần thiết để bảo quản ngư cụ, tuy nhiên tùy hoàn cảnh và mức độ yêu cầu trong công tác bảo quản mà ta có thể trang bị cho phù hợp.</para>
+  </content>
+</document>

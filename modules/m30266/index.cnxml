@@ -1,0 +1,397 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lưới tấm và công nghệ chế tạo lưới</title>
+  <metadata>
+  <md:content-id>m30266</md:content-id><md:title>Lưới tấm và công nghệ chế tạo lưới</md:title>
+  <md:abstract/>
+  <md:uuid>eef689f5-febb-4fad-b91c-a0c913597c28</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0232453101706">
+      <title>Cấu tạo lưới</title>
+      <para id="id6365100">Tổng quát ta thấy rằng lưới tấm là do các hàng chỉ lưới xếp song song với nhau và được các gút liên kết (gút dẹt hoặc gút chân ếch đơn,...) gút lại với nhau mà thành. Diện tích tấm lưới (lớn hay nhỏ) tùy thuộc vào kích thước mắt lưới và số lượng mắt lưới có trong tấm lưới. Kích thước mắt lưới nói lên khả năng có thể đánh bắt cá lớn hay cá bé; mắt lưới càng nhỏ (lưới dầy) càng có khả năng bắt được nhiều loại cá có kích thước bé, nhưng lưới càng dầy lại càng tiêu tốn nhiều vật tư chỉ lưới để làm lưới, mặt khác còn làm tăng sức cản cho tấm lưới và tăng giá thành sản phẩm. </para>
+      <para id="id6365104">Tuy nhiên chất lượng tấm lưới không phải phụ thuộc vào kích thước mắt lưới mà chủ yếu phụ thuộc vào chất lượng chỉ lưới (loại chỉ) và độ thô của chỉ cấu thành nên tấm lưới. Để có thể phân biệt giữa các loại tấm lưới thường người ta dựa vào các chỉ tiêu sau.</para>
+      <section id="id-339041821707">
+        <title>Kích thước mắt lưới (a hoặc 2a)</title>
+        <para id="id6370899">Kích thước mắt lưới nói lên tính chọn lọc cá và lực cản của ngư cụ. Độ lớn của mắt lưới được biểu thị thông qua 1 cạnh của mắt lưới, a, hay 2 cạnh liên tiếp của mắt lưới, 2a (H 2.1). Đơn vị tính cạnh mắt lưới thường là mm, nhưng có khi còn dùng đơn vị cm hay dm.</para>
+        <para id="id5626699">Đôi khi người ta còn gọi:</para>
+        <para id="id5451578">
+          <media id="id4522344" alt=""><image src="../../media/graphics1-4617.png" mime-type="image/png" height="194" width="163"/></media>
+        </para>
+        <para id="id6723522">Lưới ba: có a = 30 mm hay a = 3 cm</para>
+        <para id="id7364595">Lưới năm: có a = 50 mm hay a = 5 cm</para>
+        <para id="id5256769"> Lưới bảy: có a = 70 mm hay a = 7 cm </para>
+      </section>
+      <section id="id-858805528346">
+        <title>Chiều dài (L) và chiều rộng (H) của tấm lưới</title>
+        <para id="id5262027">Chiều dài (L) và chiều rộng (H) của tấm lưới nói lên độ lớn của tấm lưới. Thông thường trong công nghiệp sản xuất lưới, chiều dài tấm lưới thường được biểu thị bằng chiều dài kéo căng các cạnh mắt lưới (L0), đơn vị tính thường là mét và chiều rộng biểu thị bằng số lượng mắt lưới (n) có trong chiều rộng của tấm lưới đó. Thông thường để đan một tấm lưới, khi bắt đầu đan các máy dệt thường có khổ đan với số lượng mắt gầy ban đầu là 500 mắt lưới hoặc 1000 mắt.</para>
+      </section>
+      <section id="id-736961864202">
+        <title>Hệ số rút gọn của tấm lưới (U)</title>
+        <para id="id9001466">
+          <media id="id7471734" alt=""><image src="../../media/graphics2-68e8.png" mime-type="image/png" height="150" width="198"/></media>
+        </para>
+        <para id="id8977737">Hệ số rút gọn (U) của tấm lưới nói lên tấm lưới được rút ngắn lại theo một tỷ lệ nào đó so với chiều dài hoặc chiều rộng kéo căng của tấm lưới. Hệ số rút gọn càng nhỏ đối với một chiều nào đó sẽ cho ta biết chiều đó càng bị ngắn lại, nhưng chiều kia thì sẽ dài ra tương ứng. Ta có hai loại hệ số rút gọn: Hệ số rút gọn ngang (U1); hệ số rút gọn đứng (U2.)</para>
+        <section id="id-97689094562">
+          <title>Hệ số rút gọn ngang (U1)</title>
+          <para id="id6920344">Hệ số rút gọn ngang (U1) là hệ số nói lên tỷ lệ rút gọn giữa chiều ngang thực tế và chiều ngang kéo căng của tấm lưới. Hệ số rút gọn ngang (U1) được xác định bởi biểu thức sau: </para>
+          <para id="id5807686"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>L</m:mi><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{1} } = {  {L}  over  {L rSub { size 8{0} } } } } {}</m:annotation></m:semantics></m:math>(2.1)</para>
+          <para id="id8010925">ở đây:L0 = 2a.n◊ - là chiều dài kéo căng của của tấm lưới.; L - là chiều dài thực tế của tấm lưới đó.</para>
+        </section>
+        <section id="id-514114921272">
+          <title>Hệ số rút gọn đứng (U2)</title>
+          <para id="id3071695">Tương tự, hệ số rút gọn đứng (U2) là hệ số biểu thị mức rút ngắn đi giữa chiều cao thực tế và chiều cao kéo căng của tấm lưới. Hệ số rút gọn đứng (U2) được xác định bởi biểu thức sau: </para>
+          <para id="id6699412">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>U</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>H</m:mi>
+                          <m:msub>
+                            <m:mi>H</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{2} } = {  {H}  over  {H rSub { size 8{0} } } } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id8210661">ở đây:H0 = 2a.m◊ -là chiều cao kéo căng của của tấm lưới; H - là chiều cao thực tế của tấm lưới đó.</para>
+          <para id="id9021351">Từ hệ số rút gọn ngang U1, ta có thể suy ra hệ số rút gọn đứng U2 và ngược lại. Ta có biểu thức liên hệ giữa U1 và U2 như sau:</para>
+          <para id="id5452372">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msubsup>
+                            <m:mi>U</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msubsup>
+                            <m:mi>U</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{1} }  rSup { size 8{2} } +U rSub { size 8{2} }  rSup { size 8{2} } =1} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id6881764">suy ra:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msqrt><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msubsup><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{1} } = sqrt {1 - U rSub { size 8{2} }  rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>hay
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msqrt><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msubsup><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{2} } = sqrt {1 - U rSub { size 8{1} }  rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id8644917">Giá trị U1 và U2 luôn nhỏ hơn 1: U1 &lt; 1 và U2 &lt; 1. Để thuận tiện, ta có thể dựa U1 hoặc U2 để tra giá trị U2 hoặc U1 còn lại trong Bảng 2.1.</para>
+          <para id="id5807094">Thí dụ 1</para>
+          <para id="id6096501">Giả sử ta có một tấm lưới hình chữ nhật có chiều dài kéo căng là L0 = 10 m, chiều cao kéo căng là H0 = 3 m. Nếu ta đem chiều dài L0 này rút gọn lại ở kích thước L = 6 m. Hỏi chiều cao lưới rút gọn H sẽ là bao nhiêu?</para>
+          <para id="id7285492">Giải:</para>
+          <para id="id9273910">Trước hết ta cần xác định hệ số rút gọn U1 theo (2.1) là: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>L</m:mi><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0,6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{1} } = {  {L}  over  {L rSub { size 8{0} } } } = {  {6}  over  {"10"} } =0,6} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id9191721">Từ U1 tra Bảng 2.1, ta được: U2 = 0,8</para>
+          <para id="id9085085">Vậy, chiều cao lưới được rút gọn là:H = U2.H0 = 0,8 x 3 = 2,4 m</para>
+          <table id="id8874501" summary="">
+            <tgroup cols="11">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c11">Bàng 2.1 - Bảng tra giá trị U2 từ U1</entry>
+                </row>
+                <row>
+                  <entry>U1</entry>
+                  <entry namest="c2" nameend="c11">U1+ U1</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>0.00</entry>
+                  <entry>0.01</entry>
+                  <entry>0.02</entry>
+                  <entry>0.03</entry>
+                  <entry>0.04</entry>
+                  <entry>0.05</entry>
+                  <entry>0.06</entry>
+                  <entry>0.07</entry>
+                  <entry>0.08</entry>
+                  <entry>0.09</entry>
+                </row>
+                <row>
+                  <entry>0.00</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                  <entry>1.0</entry>
+                </row>
+                <row>
+                  <entry>0.10</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.99</entry>
+                  <entry>0.98</entry>
+                  <entry>0.98</entry>
+                  <entry>0.98</entry>
+                </row>
+                <row>
+                  <entry>0.20</entry>
+                  <entry>0.98</entry>
+                  <entry>0.98</entry>
+                  <entry>0.98</entry>
+                  <entry>0.97</entry>
+                  <entry>0.97</entry>
+                  <entry>0.97</entry>
+                  <entry>0.97</entry>
+                  <entry>0.96</entry>
+                  <entry>0.96</entry>
+                  <entry>0.96</entry>
+                </row>
+                <row>
+                  <entry>0.30</entry>
+                  <entry>0.95</entry>
+                  <entry>0.95</entry>
+                  <entry>0.95</entry>
+                  <entry>0.94</entry>
+                  <entry>0.94</entry>
+                  <entry>0.94</entry>
+                  <entry>0.93</entry>
+                  <entry>0.93</entry>
+                  <entry>0.92</entry>
+                  <entry>0.92</entry>
+                </row>
+                <row>
+                  <entry>0.40</entry>
+                  <entry>0.92</entry>
+                  <entry>0.91</entry>
+                  <entry>0.91</entry>
+                  <entry>0.91</entry>
+                  <entry>0.90</entry>
+                  <entry>0.89</entry>
+                  <entry>0.89</entry>
+                  <entry>0.88</entry>
+                  <entry>0.88</entry>
+                  <entry>0.87</entry>
+                </row>
+                <row>
+                  <entry>0.50</entry>
+                  <entry>0.87</entry>
+                  <entry>0.86</entry>
+                  <entry>0.85</entry>
+                  <entry>0.85</entry>
+                  <entry>0.84</entry>
+                  <entry>0.84</entry>
+                  <entry>0.83</entry>
+                  <entry>0.82</entry>
+                  <entry>0.89</entry>
+                  <entry>0.80</entry>
+                </row>
+                <row>
+                  <entry>0.60</entry>
+                  <entry>0.80</entry>
+                  <entry>0.79</entry>
+                  <entry>0.78</entry>
+                  <entry>0.78</entry>
+                  <entry>0.77</entry>
+                  <entry>0.76</entry>
+                  <entry>0.75</entry>
+                  <entry>0.74</entry>
+                  <entry>0.73</entry>
+                  <entry>0.72</entry>
+                </row>
+                <row>
+                  <entry>0.70</entry>
+                  <entry>0.71</entry>
+                  <entry>0.70</entry>
+                  <entry>0.69</entry>
+                  <entry>0.68</entry>
+                  <entry>0.67</entry>
+                  <entry>0.66</entry>
+                  <entry>0.65</entry>
+                  <entry>0.64</entry>
+                  <entry>0.63</entry>
+                  <entry>0.61</entry>
+                </row>
+                <row>
+                  <entry>0.80</entry>
+                  <entry>0.60</entry>
+                  <entry>0.59</entry>
+                  <entry>0.57</entry>
+                  <entry>0.56</entry>
+                  <entry>0.54</entry>
+                  <entry>0.53</entry>
+                  <entry>0.51</entry>
+                  <entry>0.49</entry>
+                  <entry>0.47</entry>
+                  <entry>0.46</entry>
+                </row>
+                <row>
+                  <entry>0.90</entry>
+                  <entry>0.44</entry>
+                  <entry>0.42</entry>
+                  <entry>0.39</entry>
+                  <entry>0.37</entry>
+                  <entry>0.34</entry>
+                  <entry>0.31</entry>
+                  <entry>0.28</entry>
+                  <entry>0.24</entry>
+                  <entry>0.20</entry>
+                  <entry>0.14</entry>
+                </row>
+                <row>
+                  <entry>1.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                  <entry>0.0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-241836770422">
+        <title>Diện tích thật và diện tích giả của tấm lưới</title>
+        <list id="id9237138" list-type="bulleted">
+          <item>Diện tích giả (S0)</item>
+        </list>
+        <para id="id9119433">Diện tích giả (S0) của tấm lưới là diện tích mang tính lý thuyết, được dùng để ước lượng, so sánh giữa các tấm lưới với nhau. Diện tích này tính toán trên cơ sở là dùng chiều dài kéo căng và chiều rộng kéo căng để tính ra diện tích. Diện tích này không bao giờ có được trong thực tế, bởi vì khi tấm lưới được kéo căng theo một chiều nào đó thì chiều kia sẽ bị rút ngắn lại.</para>
+        <para id="id9177671">Trong thực tế, người ta thường áp dụng diện tích giả trong việc ước lượng trọng lượng lưới khi biết trọng lượng của một đơn vị diện tích giả.</para>
+        <list id="id7834117" list-type="bulleted">
+          <item>Diện tích thật (S)</item>
+        </list>
+        <para id="id9393470">Diện tích thật (S) của tấm lưới là diện tích thực tế, bởi vì khi một chiều nào đó của tấm lưới được kéo ra với một độ dài nào đó thì kích thước chiều kia cũng thay đổi theo với một tỷ lệ tương ứng. Diện tích thật thì luôn nhỏ hơn diện tích giả.</para>
+        <para id="id9587857">Chú ý: </para>
+        <para id="id6764949">Bởi vì diện tích tấm lưới sẽ bị biến đổi tùy thuộc vào hệ số rút gọn, do vậy nếu ta muốn có diện tích tấm lưới đạt giá trị lớn nhất ta nên cho tấm lưới rút gọn với hệ số U1=U2= 0.707, khi này tấm lưới sẽ có dạng hình vuông.</para>
+      </section>
+      <section id="id-14824920767">
+        <title>Cường độ tấm lưới</title>
+        <para id="id9654548">Cường độ tấm lưới nói lên độ bền của tấm lưới. Cường độ tấm lưới phụ thuộc vào nguyên vật liệu làm lưới và kiểu hình thức gút liên kết tạo thành mắt lưới. </para>
+        <para id="id9654559">Người ta nhận thấy rằng sau khi chỉ đã được đan thành lưới, cường độ đứt của chỉ bị giảm đi 30-40% so với ban đầu. Sự giảm này là do bởi sự hình thành các gút lưới, lưới được đan với gút càng phức tạp thì cường độ chỉ càng giảm.</para>
+      </section>
+    </section>
+    <section id="id-971626280176">
+      <title>Công nghệ chế tạo lưới</title>
+      <para id="id8791197">Công nghệ chế tạo lưới là một kỹ thuật gia công chỉ lưới thành tấm lưới phục vụ cho đánh bắt cá. Hiện nay công nghệ chế tạo lưới đã hoàn toàn tự động hóa khâu chế tạo ra tấm lưới thành phẩm. </para>
+      <para id="id9110780">Để tạo ra tấm lưới, trước hết lưới sẽ được gầy với số lượng mặt lưới nhất định, 500 mắt hoặc 1000 mắt. Tiếp đó máy dệt lưới sẽ tự động dệt theo một kiểu gút nào đó (gút dẹt, gút chân ếch,...) dài xuống theo chiều dài tùy ý của người sản xuất. </para>
+      <para id="id7748336">Tuy nhiên trong thực tế nghề đan lưới thủ công cũng vẫn còn phát triển phổ biến trong dân gian, do bởi nó đáp ứng được nhu cầu sản xuất qui mô nhỏ và giúp kiếm thêm thu nhập gia đình. </para>
+      <para id="id7748349">Đối với nghề đan lưới thủ công, để có được tấm lưới cần phải công cụ đan và biết cách đan. Sau đây chúng tôi sẽ giới thiệu một vài dụng cụ đan và một số cách đan phổ biến sau.</para>
+    </section>
+    <section id="id-102303994609">
+      <title>Dụng cụ đan</title>
+      <para id="id9656819">Muốn đan một tấm lưới ta phải có hai dụng cụ cần thiết là ghim đan và cữ đan.</para>
+      <list id="id9178032" list-type="bulleted">
+        <item>Ghim đan</item>
+      </list>
+      <para id="id9178041">Ghim đan là dụng cụ dùng để đan lưới (H 2.3). Ghim đan có thể làm bằng tre, nhựa hoặc sắt,... Độ lớn của ghim đan phải nhỏ hơn 1/2 kích thước mắt lưới (2a) mà ta muốn đan. Tuy nhiên nếu ghim đan quá nhỏ sẽ không mắc được nhiều chỉ vào thân ghim, nhưng nếu kim đan quá lớn sẽ gây khó khăn khi thao tác đan. </para>
+      <para id="id7944952">
+        <media id="id4727896" alt=""><image src="../../media/graphics3-2d94.png" mime-type="image/png" height="125" width="459"/></media>
+      </para>
+      <list id="id7836053" list-type="bulleted">
+        <item>Cữ đan</item>
+      </list>
+      <para id="id9515874">Cữ đan hay còn gọi là cự đan hoặc cỡ đan (H 2.4), là dụng cụ nhất thiết phải có để ổn định kích thước các cạnh mắt lưới mà ta muốn đan. Muốn đan lưới có mắt lưới cỡ nào thì làm chiều rộng thân lưới có kích thước cỡ đó. Cữ đan có thể làm bằng tre, nhựa, hoặc sắt.</para>
+      <figure id="id9254401">
+        <media id="id1164228556640" alt=""><image src="../../media/graphics4-efe6.png" mime-type="image/png" height="120" width="291"/></media>
+      </figure>
+    </section>
+    <section id="id-137666676968">
+      <title>Cách đan</title>
+      <para id="id8920045">Muốn đan tấm lưới trước hết ta phải gầy một số mắt lưới ban đầu để đan. Số mắt lưới được gầy ban đầu sẽ quyết định chiều rộng hoặc chiều cao tấm lưới (nếu gầy theo chiều dọc). Trong thực tế có rất nhiều cách gầy, ta cũng có thể gầy mắt lưới theo chiều ngang hoặc theo chiều dọc. Ta có một số cách gầy phổ biến sau: gầy nữa mắt lưới có đầu gầy; gầy nữa mắt lưới không đầu gầy; gầy cả mắt lưới theo chiều dọc (H 2.5).</para>
+      <figure id="id7893835">
+        <media id="id1164234818907" alt=""><image src="../../media/graphics5-642a.png" mime-type="image/png" height="338" width="570"/></media>
+      </figure>
+      <para id="id9079804">Sau khi đã gầy mặt lưới xong, ta tiến hành đan lưới, trước hết đan lần lượt từ trái qua phải (hoặc từ phải qua trái) và đang cho đủ số mắt lưới đã gầy. Khi đan hết một hàng cữ đan ta tiếp tục đan xuống hàng cữ đan kế tiếp phía dưới.</para>
+      <para id="id9570632">Nếu trong mỗi hàng cữ đan ta đan theo đúng số mặt lưới đã gầy ban đầu, khi đó tấm lưới sẽ có dạng hình chữ nhật. Tuy nhiên trong qua trình đan ta cũng có thể đan tăng mặt (tăng treo), khi này hàng cữ đan phía dưới sẽ có số lượng mặt lưới sẽ lớn hơn hàng cữ trên, tấm lưới sẽ có dạng hình thang có cạnh đáy dưới lớn hơn đáy trên. </para>
+      <para id="id9774238">Ngược lại ta cũng có thể đan giảm mặt, bằng cách nhốt một vài mắt lưới trong mỗi hàng cữ đan, khi này tấm lưới cũng có dạng hính thang nhưng đáy trên sẽ có số mặt lưới nhiều hơn đáy dưới. </para>
+      <para id="id6282863">Ta có thể thấy các dạng đan tăng, giảm mặt như sau (H 2.6).</para>
+      <figure id="id8925802">
+        <media id="id4226205" alt=""><image src="../../media/graphics6-e23f.png" mime-type="image/png" height="465" width="561"/></media>
+      </figure>
+    </section>
+    <section id="id-441540657643">
+      <title>Các loại nút lưới thường dùng trong ngành khai thác thủy sản</title>
+      <para id="id9054697">1. Nút dẹt13. Nút ghế dây đôi</para>
+      <para id="id9103336">2. Nút mở14. Nút cứu sinh.</para>
+      <para id="id9408060">3. Nút sống15. Nút treo ván</para>
+      <para id="id8490152">4. Nút chân ếch đơn16. Nút ca bản (nút tai thỏ)</para>
+      <para id="id8915834">5. Nút chân ếch kép17. Nút thòng lọng thường</para>
+      <para id="id8803356">6 Nút chân ếch biến dạng18. Nút thòng lọng ghế</para>
+      <para id="id8803367">7. Nút khóa ngược đầu19. Nút tếch đều</para>
+      <para id="id9186739">8. Nút khóa chụm đầu20. Nút tếch phải</para>
+      <para id="id8881522">9. Nút nối dây câu ngược đầu21. Nút tếch trái</para>
+      <para id="id9079010">10. Nút nối dây câu chụm đầu22. Nút thang</para>
+      <para id="id9079020">11. Nút ghế đơn23. Nút hoạt</para>
+      <para id="id8924849">12. Nút ghế kép24. Nút chầu dây</para>
+      <para id="id4796801">Các loại nút này sẽ được giới thiệu trong bài thực tập về thắt các loại nút dây.</para>
+    </section>
+  </content>
+</document>

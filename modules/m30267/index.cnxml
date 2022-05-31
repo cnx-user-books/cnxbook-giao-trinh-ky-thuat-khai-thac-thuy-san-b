@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lưới đăng</title>
+  <metadata>
+  <md:content-id>m30267</md:content-id><md:title>Lưới đăng</md:title>
+  <md:abstract>Lưới đăng (hay còn gọi là nò hoặc dớn) là ngư cụ cố định thường thấy phổ biến ở những vùng đất thấp, ngập nước theo mùa, cũng như thường gặp dọc theo các sông rạch và vùng ven biển. Lưới đăng thường khai thác mang tính mùa vụ hoặc theo con nước lớn ròng. 
+Ta có thể thấy sự khác biệt của lưới đăng so với các loại nghề đánh bắt khác qua nguyên lý đánh bắt, cấu tạo ngư cụ và kỹ thuật khai thác như sau.</md:abstract>
+  <md:uuid>5699358b-7322-4810-89fe-e055af8584ed</md:uuid>
+</metadata>
+  <content>
+    <section id="id-868582600299">
+      <title>NGUYÊN LÝ ĐÁNH BẮT LƯỚI ĐĂNG</title>
+      <para id="id7392031">Nguyên lý đánh bắt lưới Đăng được khái quát như sau: “ Lưới Đăng đượt đặt cố định chặn ngang đường di chuyển của cá, cá trên đường đi không thể vượt qua được tường lưới nên phải men theo tường lưới và bị giữ lại ở chuồng lưới (lọp)”.</para>
+    </section>
+    <section id="id-25525287175">
+      <title>PHÂN LOẠI LƯỚI ĐĂNG</title>
+      <para id="id7392062">Có nhiều cách phân loại lưới đăng. Người ta có thể dựa vào khu vực khai thác; độ sâu thủy vực; cấu tạo lưới; nguyên liệu chế tạo lưới đăng; sự kết hợp giữa lưới đăng và ánh sáng;... để phân loại lưới Đăng.</para>
+      <table id="id7392077" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Theo khu vực khai thác</entry>
+              <entry>Theo độ sâu</entry>
+              <entry>Theo cấu tạo</entry>
+              <entry>Kết hợp ánh sáng</entry>
+              <entry>Theo vật liệu</entry>
+            </row>
+            <row>
+              <entry>- Đăng mương- Đăng sông- Đăng biển</entry>
+              <entry>- Đăng mé- Đăng gần bờ- Đăng khơi</entry>
+              <entry>- Đăng có chuồng- Đăng không chuồng- Đăng đáy dốc có chuồng phụ</entry>
+              <entry>- Đăng đèn- Đăng không đèn</entry>
+              <entry>- Đăng tre, sậy- Đăng lưới- Đăng kết hợp</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-878671736919">
+      <title>CẤU TẠO LƯỚI ĐĂNG</title>
+      <para id="id7392263">Cấu tạo cơ bản của lưới Đăng gồm 3 bộ phận chính là: Đăng lưới, Chuồng và Lọp.</para>
+      <section id="id-987148295741">
+        <title>Đăng lưới</title>
+        <para id="id7392293">Đăng lưới là dãy lưới chặn ngang đường di chuyển của cá. Đăng lưới có thể làm bằng tre, sậy bện lại với nhau thành dãy đăng hình chữ nhật (thường thấy ở sông, rạch) hoặc bằng tấm lưới được lắp trên bộ khung dây giềng (có giềng phao, giềng chì và giềng biên) thường thấy ở biển.</para>
+        <list id="id7392310" list-type="bulleted">
+          <item>Chiều dài tấm lưới đăng.</item>
+        </list>
+        <para id="id7392320">Chiều dài của tấm lưới đăng thì tùy thuộc vào độ rộng cho phép của khu vực khai thác, hoặc phụ thuộc vào mức độ phát tán của đàn cá xuất hiện gần khu vực đặt lưới đăng nếu khai thác ở sông lớn, biển, mà chọn chiều dài tắm đăng sao cho chặn được nhiều cá càng tốt. Tuy nhiên, nếu khai thác ở ruộng hoặc vùng trũng rộng thì người ta thường lắp đặt chiều dài lưới đăng theo đường ngoằn ngoèo để tăng diện tích chặn cá.</para>
+        <figure id="id7392353">
+          <media id="id1168811775839" alt=""><image src="../../media/graphics1-0ec4.png" mime-type="image/png" height="352" width="599"/></media>
+        </figure>
+        <para id="id7392376">Yêu cầu của tấm đăng phải thỏa mãn các điều kiện sau:</para>
+        <list id="id7392383" list-type="bulleted">
+          <item>Chiều cáo của tấm đăng.</item>
+        </list>
+        <para id="id7392393">Chiều cao tấm đăng lưới được tính từ tầng mặt cho đến sát đáy và có dự phòng thêm từ 10-20 % độ cao nhằm đãm bảo phần trên của tấm đăng nổi lên đến khỏi mặt nước khi triều cường cao nhất (đối với tấm đăng bằng tre, sậy) hoặc nếu tấm đăng làm bằng lưới thì cũng phải tăng thêm dạo lưới cho đủ cao để giềng phao của tấm đăng nổi lên mặt nước khi triều cường cao nhất.</para>
+        <list id="id7392413" list-type="bulleted">
+          <item>Độ hở giữa các thanh đăng của tấm đăng (tre, sậy) phải đãm bảo ngăn không để cá vượt qua được các khe. Hoặc nếu tấm đăng được làm bằng lưới cũng phải đãm bảo không cho cá thoát qua mắt lưới để sang phía bên kia và cũng không bị đóng dính vào mắt lưới của tấm đăng. </item>
+        </list>
+      </section>
+      <section id="id-930801254606">
+        <title>Chuồng lưới Đăng</title>
+        <para id="id7392448">Chuồng lưới đăng là nơi giữ cá, chứa cá và hướng cá vào lọp . Chuồng lưới có dạng hình chữ nhật hoặc hình đa giác. Yêu cầu đối với chuồng lưới đăng là phải có diện tích vừa đủ, không được quá nhỏ hoặc quá lớn, bởi vì nếu quá nhỏ sẽ làm cho cá cãm thấy chật chội cá có thể tìm cách thoát ra ngoài, nếu quá lớn sẽ khó thu việc thu gom hoặc khó hướng cá vào lọp. </para>
+        <para id="id7392462">Độ cao của chuồng cũng tính từ sát nền đáy đến bề mặt nước có dự phòng từ 10-20% độ cao khi triều cường cao nhất. Ta có các dạng chuồng sau:</para>
+        <figure id="id7392473">
+          <media id="id1168811875708" alt=""><image src="../../media/graphics2-3567.png" mime-type="image/png" height="238" width="599"/></media>
+        </figure>
+      </section>
+      <section id="id-201301190535">
+        <title>Lọp</title>
+        <para id="id7392504">Lọp là nơi chứa cá và bắt cá. Lọp được đạt ở các hông chuồng hoặc cuối dãy lưới đăng nếu không chuồng. Lọp lưới đăng thường làm bằng tre hoặc được bao bọc lưới.</para>
+        <para id="id7392518">Lọp có dạng hình hộp, hình ống hoặc hình trụ. Yêu cầu đối với lọp là phải bền, chắc, không để cho cá có thể phá lọp ra ngoài.</para>
+      </section>
+    </section>
+    <section id="id-675997979158">
+      <title>KỸ THUẬT KHAI THÁC LƯỚI ĐĂNG</title>
+      <para id="id7392538">Lưới Đăng thường được đánh bắt mang tính mùa vụ nên kỹ thuật khai thác lưới Đăng thường được phân thành 2 giai đoạn:</para>
+      <list id="id7392548" list-type="bulleted">
+        <item>Giai đoạn 1: Lắp đặt chuồng lưới Đăng</item>
+        <item>Giai đoạn 2: Khai thác lưới Đăng</item>
+      </list>
+      <section id="id-381039160496">
+        <title>Lắp đặt chuồng lưới đăng</title>
+        <para id="id7392576">Do bởi lưới Đăng khai thác theo mùa vụ, nên trước khi bắt đầu đến thời kỳ khai thác, việc lắp đặt chuồng lưới Đăng đều được chuẩn bị, tu bổ, sửa chữa, lắp đặt lại, nhằm đãm bảo hiệu suất khai thác cao nhất cho lưới Đăng . Công việc lắp đặt lưới Đăng gồm 2 bước sau: </para>
+        <list id="id7392594" list-type="bulleted">
+          <item>Bước thứ nhất: Chọn nơi đặt Đăng</item>
+          <item>Bước thứ hai: Lắp đặt tấm đăng dẫn cá và chuồng</item>
+        </list>
+        <section id="id-514741463244">
+          <title>Chọn nơi đặt Đăng</title>
+          <para id="id7392637">Chọn nơi đặt lưới Đăng là việc đầu tiên mà người đầu tư khai thác lưới Đăng cần tính đến trước tiên, bởi vì nó quyết định đến hiệu quả đánh bắt lưới đăng và các quan hệ kinh tế - xã hội xung quanh khu vực khai thác lưới Đăng. Do vậy yêu cầu của nơi đặt đăng cần phải thỏa mãn các điều kiện sau:</para>
+          <list id="id7392652" list-type="bulleted">
+            <item>Phải có nhiều cá qua lại theo từng mùa vụ hoặc quanh năm.</item>
+            <item>Nền đáy phải tương đối bằng phẳng, độ dốc nền đáy phải nhỏ.</item>
+            <item>Phải ít bị ảnh hưởng bởi sóng, gió, tốc độ dòng chảy trung bình và độ sâu không quá lớn.</item>
+            <item>Phải thuận tiện cho việc vận chuyển cá và không gây cản trở cho tàu bè đi lại.</item>
+          </list>
+        </section>
+        <section id="id-081316910056">
+          <title>Lắp đặt tấm đăng dẫn cá và chuồng lưới Đăng</title>
+          <para id="id7392701">Việc đầu tiên là trước hết ta cần lắp đặt tấm đăng dẵn cá, rồi sau đó mới lắp đặt chuồng lưới Đăng.</para>
+          <list id="id7392710" list-type="bulleted">
+            <item>Chọn hướng và đặt tấm đăng dẫn cá</item>
+          </list>
+          <para id="id7392720">Để lắp đặt tấm đăng dẫn cá ta nên lắp từ trong cạn (bờ) ra sâu. Trước hết ta cần cắm các cọc để định hướng cho tấm đăng (nếu là đăng tre, sậy) hoặc căng định hướng dây giềng phao (nếu là tấm đăng làm bằng lưới). Các cọc cần phải cắm sâu xuống đất và được các dây chằng, neo cố định lại cho vững chắc. </para>
+          <figure id="id7392742">
+            <media id="id1168809688156" alt=""><image src="../../media/graphics3-a5b9.png" mime-type="image/png" height="318" width="592"/></media>
+          </figure>
+          <para id="id7392766">Trong việc chọn hướng cho tấm đăng dẫn cá ta cần nghiên cứu kỹ qui luật di chuyển của cá mà chọn hướng cho phù hợp. Kinh nghiệm người ta thấy rằng khi cá đang đi theo một hướng nào đó, nếu bất ngờ bị tấm đăng dẫn cá chặn lại, khi đó cá có khuynh hướng di chuyển ra vùng nước sâu. Do vậy ta nên chọn phương đặt tấm đăng nên hợp với phương di chuyển của cá một góc 120o nếu cá chỉ đi theo một chiều, hoặc 90o nếu cá đi hai chiều, theo sơ đồ sau:</para>
+          <list id="id7392807" list-type="bulleted">
+            <item>Lắp đặt chuồng lưới đăng.</item>
+          </list>
+          <para id="id7392817">Sau khi đã lắp xong tấm đăng dẫn cá, ta tiến hành lắp đặt chuồng. Chuồng lưới đăng phải nằm ở vị trí cuối cùng mà tấm đăng dẫn tới, thường là nơi có độ sâu lớn và không bị ảnh hưởng bởi tàu bè đi lại.</para>
+          <para id="id7392833">Tương tự như lắp tấm đăng dẫn cá, trước hết để lắp đặt chuồng lưới đăng ta cũng phải cắm các cọc để định hình kiểu chuồng. Tiếp theo ta lắp các tấm lưới hoặc các đăng tre (sậy) để bao bọc chuồng lại. Ta chừa các kẽ hở để lắp lưới cánh gà và lọp.</para>
+          <para id="id7392848">Chú ý là không nên để khoảng khe hở giữa 2 lưới cánh gà quá lớn, cá có thể sẽ đi ngược được trở ra ngoài.</para>
+        </section>
+      </section>
+      <section id="id-0306415304527">
+        <title>Kỹ thuật khai thác lưới Đăng</title>
+        <para id="id7392866">Kỹ thuật đánh bắt lưới Đăng cũng tương đối đơn giản, bao gồm hai giai đoạn:</para>
+        <para id="id7392874">- Giai đoạn một: Giai đoạn lôi cuốn và dẫn cá vào chuồng.</para>
+        <para id="id7392889">- Giai đoạn hai:Giai đoạn dóng cửa chuồng và bắt cá.</para>
+        <section id="id-398698264904">
+          <title>Giai đoạn lôi cuốn và dẫn cá vào chuồng.</title>
+          <para id="id7392912">Giai đoạn này ta gần như không làm gì cả, chỉ việc ngồi chờ đàn cá di chuyển đến đụng tường tấm đăng dẫn dắt rồi cá tự chuyển hướng để đi đến chuồng. Tuy vậy trong thời gian này ta cũng nên chú ý đến sự đi lại của tàu bè khác gần khu vực mà ta đang đặt đăng và chuồng nhằm báo hiệu cho họ biết là ta đang khai thác lưới Đăng.</para>
+          <para id="id7392927">Thời gian lôi cuốn cá và dẫn cá vào chuồng thì phụ thuộc vào chu kỳ con nước lớn ròng, hay thời điểm đàn cá đi vào chuồng hoặc khoảng thời gian cần thiết đủ để mật độ cá tập trung trong chuồng cao. Do vậy thời gian lôi cuốn cá và dẫn cá vào chuồng là do kinh nghiệm và điều kiện thực tế ở khu vực khai thác mà ta quyết định bao lâu là vừa.</para>
+          <para id="id7392945">Để hướng cá đi vào chuồng, ta có 2 cách:</para>
+          <list id="id7392950" list-type="bulleted">
+            <item>Cá tự động đi vào chuồng. </item>
+          </list>
+          <para id="id7392967">Trường hợp này là cá khi gặp đi đến tường lưới đăng dẫn cá, cá sẽ tự chuyển hướng, men theo tường lưới dẫn cá đi vào giữa 2 lưới cánh gà, rồi vào sân chuồng, bị giữ lại ở lọp.</para>
+          <list id="id7392982" list-type="bulleted">
+            <item>Cá được dẫn vào chuồng bởi nguồn sáng.</item>
+          </list>
+          <para id="id7392992">Trong thực tế đánh bắt thường thấy ở vùng ven biển, để giảm thơi gian chờ đợi cá đi vào chuồng, người ta thường kết hợp với nguồn sáng để lôi cuốn cá, dẫn dắt đưa cá vào chuồng. </para>
+          <para id="id7393005">Nguồn sáng ở đây có thể là nguồn sáng do các xuồng đèn măng-sông được thắp sáng quanh khu vực đặt chuồng lưới Đăng (H 7.1), hoặc nguồn sáng do bởi sự phát sáng của các bóng đèn thả trong nước, được định kỳ cháy, tắt lần lượt từ ngoài vào trong chuồng lưới Đăng, cá bị nguồn sáng hấp dẫn sẻ tự động đi vào chuồng (H 7.2).</para>
+          <para id="id7393039">Ta có thể thấy sự bố trí các nguồn sáng theo 2 theo sơ đồ dưới đây:</para>
+          <figure id="id7393057">
+            <media id="id1168797813012" alt=""><image src="../../media/graphics4-db5d.png" mime-type="image/png" height="344" width="577"/></media>
+          </figure>
+          <figure id="id7393084">
+            <media id="id1168799508593" alt=""><image src="../../media/graphics5-fae0.png" mime-type="image/png" height="213" width="586"/></media>
+          </figure>
+        </section>
+        <section id="id-365242974074">
+          <title>Thu lưới và bắt cá. </title>
+          <para id="id7393116">Sau thời gian nhất định, khi thấy cá đi vào sân chuồng khá nhiều ta bắt đầu đóng chặn cửa chuồng lại, nâng tấm lưới ở đáy sân chuồng, dồn cá vào một góc và tìm cách thu cá. Ta có thể dùng vợt để xúc cá (nếu cá lớn) hoặc dùng bơm hút (nếu cá nhỏ và nhiều). Nếu không có tấm lưới đáy sân chuồng ta phải tìm cách xua đuổi cá chạy vào lọp rồi tháo dở lọp bắt cá.Sau khi thu cá xong, chuyển cá lên xuồng vận chuyển, rồi đưa cá vào bờ. Đồng thời chuẩn bị mẻ khai thác tiếp theo.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

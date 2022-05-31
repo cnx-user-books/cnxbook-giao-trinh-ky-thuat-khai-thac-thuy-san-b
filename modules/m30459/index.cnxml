@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nghề lưới đáy</title>
+  <metadata>
+  <md:content-id>m30459</md:content-id><md:title>Nghề lưới đáy</md:title>
+  <md:abstract/>
+  <md:uuid>290095b2-b1f2-4eab-a288-4fcb533eb891</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-372563625262">
+      <title>Nguyên lý đánh bắt</title>
+      <para id="id9304034">“Lưới đáy đánh bắt theo nguyên lý lọc nước bắt cá. Cá bị lùa vào lưới dưới tác dụng của dòng chảy và bị giữ lại ở đụt lưới”</para>
+    </section>
+    <section id="id-116309864113">
+      <title>Phân loại lưới đáy</title>
+      <para id="id8653209">Người ta có thể phân loại lưới đáy theo khu vực khai thác, theo cấu tạo, theo đối tượng khai thác và theo số miệng lưới (Bảng 9.1).</para>
+      <table id="id9573220" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4">Bảng 9.1 - Phân loại lưới đáy theo khu vực, cấu tạo, đối tượng và số miệng lưới</entry>
+            </row>
+            <row>
+              <entry>Theo khu vực</entry>
+              <entry>Theo cấu tạo</entry>
+              <entry>Theo đối tượng khai thác</entry>
+              <entry>Theo số miệng lưới</entry>
+            </row>
+            <row>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới Đáy sôngLưới Đáy biển</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới Đáy cọcLưới Đáy neoLưới Đáy bè</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới Đáy cáLưới Đáy tôm</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Lưới Đáy 1 miệngLưới Đáy nhiều miệng</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-581263710197">
+      <title>Cấu tạo lưới đáy</title>
+      <para id="id8782629">Nhìn tổng thể, lưới đáy có cấu tạo gần tương tự như lưới kéo. Tuy vậy, sự khác biệt giữa lưới đáy và lưới kéo là ở chổ lưới kéo thì có thêm phần cánh lưới, còn ở lưới đáy thì không nhất thiết phải có cánh lưới (H 9.1).</para>
+      <figure id="id9338842">
+        <media id="id1170010811030" alt=""><image src="../../media/graphics1-e356.png" mime-type="image/png" height="388" width="627"/></media>
+      </figure>
+      <list id="id9224219" list-type="bulleted">
+        <item>Chiều dài</item>
+      </list>
+      <para id="id9143940">Chiều dài lưới đáy là chỉ tiêu quan trọng trong chế tạo lưới đáy, bởi lưới đáy không chỉ phụ thuộc vào đối tượng khai thác, mà còn phụ thuộc vào tốc độ dòng chảy ở khu vực đặt lưới đáy. Do vậy khi thiết kế chiều dài lưới đáy người ta phải dự đoán trước tốc độ dòng chảy sao cho dưới tác động của mỗi tốc độ dòng chảy nào đó, chiều dài lưới đáy phải đủ dài để một khi cá, tôm đã vào lưới rồi thì khó có khả năng thoát ngược trở ra miệng lưới. Thông thường lưới đáy được thiết kế có chiều dài từ 40-50 m.</para>
+      <list id="id9143947" list-type="bulleted">
+        <item>Chiều cao</item>
+      </list>
+      <para id="id9062512">Việc xác định chiều cao miệng lưới đáy tùy thuộc vào độ sâu và độ dầy tầng nước của đối tượng khai thác hoạt động (cá, tôm,... đi sát nền đáy hay đi lừng), mà ta chọn chiều cao miệng lưới sao cho hứng được thật nhiều cá khi chúng bị nước lùa vào. Tuy vậy việc chọn chiều cao quá lớn sẽ ảnh hưởng đến sức chịu lực của lưới và cọc, dễ gây sự cố cho lưới và cọc. Trong thực tế chiều cao miệng lưới đáy thường từ 2-5 m.</para>
+      <list id="id9062528" list-type="bulleted">
+        <item>Độ mở ngang miệng lưới đáy</item>
+      </list>
+      <para id="id9666904">Độ mở ngang của miệng lưới đáy là khoảng cách giữa hai đầu cọc đáy. Tùy theo độ rộng của khu vực khai thác, sức chịu lực của cọc đáy (hay neo) và tốc độ dòng chảy mà chọn độ mở ngang thích hợp. Thông thường độ mở ngang cho mỗi miệng lưới đáy là từ (10-30) mét tuỳ theo sự cho phép của cơ quan giao thông.</para>
+      <list id="id9666911" list-type="bulleted">
+        <item>Thân lưới</item>
+      </list>
+      <para id="id9370885">Thân lưới đáy là phần giữ, lùa và hướng cá vào đụt. Do đánh bắt thụ động và phụ thuộc vào tốc độ dòng chảy, nên chiều dài thân được yêu cầu phải đảm bảo cá ít có khả năng vượt thoát ngược trở lại ra miệng lưới đáy. Do vậy người ta thiết kế thân lưới đáy có chiều dài chiếm tỷ lệ khá lớn so với chiều dài vàng lưới, thường gần một nữa chiều dài vàng lưới đáy, thực tế từ (20-25) m.</para>
+      <para id="id9370896">Tương tự như lưới kéo, kích thước mắt lưới đáy cho phần thân lưới đáy, ath, thường được chọn lớn hơn kích thước mắt lưới phần đụt lưới đáy, ađ, nhằm làm giảm lực cản cho lưới và tiết kiệm nguyên vật liệu, nhưng cũng không được lớn hơn diện tích mặt cắt ngang của cá. </para>
+      <para id="id8010807">Thông thường mắt lưới thân được tăng dần từ phần gần đụt ra tới miệng lưới theo tỉ lệ 25% và độ thô chỉ lưới thì ngược lại, nghĩa là:</para>
+      <para id="id8011350">ath &gt; ađvà dth &lt; dđ</para>
+      <list id="id8210788" list-type="bulleted">
+        <item>Đụt lưới đáy và rọ</item>
+      </list>
+      <para id="id8210800">Đụt lưới đáy là phần giữ cá và bắt cá. Thực tế người ta nhận thấy rằng một đối tượng đánh bắt nào đó (cá, tôm,..) một khi đã vào đến phần đụt thì có xu hướng tìm cách thoát ra mạnh nhất, do vậy yêu cầu khi chọn kích thước mắt lưới đụt phải đảm bảo sao cho cá không thể chui ra khỏi mắt lưới và cũng không được đóng dính vào mắt lưới. </para>
+      <para id="id8011559">Mặt khác, vì đụt là phần quan trọng nhất làm ra sản lượng, cho nên độ thô chỉ lưới cho phần đụt cũng cần phải đảm bảo độ bền chắc để ngừa trường hợp cá phá lưới hoặc sản lượng đánh bắt được quá nhiều có thể làm rách đụt. Ở một số lưới đáy để tăng cường cho đụt lưới thường người ta lắp thêm bên ngoài đụt lưới bởi một áo bao đụt.</para>
+      <para id="id5624863">Rọ là dụng cụ chứa cá được lắp đặt thêm vào phần cuối đụt (có khi có khi không), rọ được làm bằng tre, có dạng hình trụ, có nắp mở trên thân rọ. Khi thu cá chỉ cần kéo rọ lên rối mở nắp trút cá ra (H 9.2).</para>
+      <figure id="id9274813">
+        <media id="id1170008022547" alt=""><image src="../../media/graphics2-6099.png" mime-type="image/png" height="152" width="375"/></media>
+      </figure>
+      <list id="id7853888" list-type="bulleted">
+        <item>Cọc, neo và bè lưới đáy</item>
+      </list>
+      <para id="id7853901">Lưới đáy là ngư cụ cố định nên cọc (hoặc neo hoặc bè) là những những công cụ cần thiết để ổn định vị trí và hình dạng của miệng lưới đáy. Tùy theo khu vực, độ sâu, tốc độ dòng chảy mà người ta lắp lưới đáy vào cọc hoặc neo hoặc bè. Do đó mà lưới đáy được gọi theo nhiều tên gọi khác nhau: Lưới đáy cọc, lưới đáy neo, lưới đáy bè.</para>
+      <figure id="id9487335">
+        <media id="id1170007848974" alt=""><image src="../../media/graphics3-2452.png" mime-type="image/png" height="486" width="513"/></media>
+      </figure>
+      <list id="id9274480" list-type="bulleted">
+        <item>Cọc lưới đáy </item>
+      </list>
+      <para id="id9274228">Cọc sử dụng trong lưới đáy thường được áp dụng ở những nơi có độ sâu tương đối nhỏ (cạn), dưới 10 m (H 9.3). Nguyên liệu làm cọc lưới đáy thường là những cây gỗ thẳng, dài (thường bằng gỗ dưà, cau, bạch đàn,...) có độ dẽo cao và chịu được nước. Đôi khi người ta còn làm cọc bằng xi măng dạng cột tròn hoặc cột vuông. Yêu cầu đối với cọc xi măng là phải chịu được sự phá hủy của nước.</para>
+      <para id="id8011160">Chiều cao cọc phải đủ cao sao cho có thể cắm vững chắc sâu xuống nền đáy và ló lên khỏi mắt nước khi triều cường cao nhất. Tùy theo độ sâu mà ta chọn chiều cao cọc thích hợp. </para>
+      <para id="id9687576">Đường kính của cọc liên quan đến tính dẽo và sức chịu lực uốn của cọc. Tùy theo độ sâu và áp lực nước tác dụng lên lưới mà ta chọn đường kính của cọc sao cho đảm bảo cọc không bị gãy trong quá trình khai thác lưới đáy cọc. Thông thường cọc càng to thì sức chịu lực càng lớn, nhưng giá thành càng đắt và khó lắp đặt cọc.</para>
+      <list id="id9274244" list-type="bulleted">
+        <item>Neo-ngáng lưới đáy </item>
+      </list>
+      <figure id="id9723574">
+        <media id="id1694882" alt=""><image src="../../media/graphics4-5527.png" mime-type="image/png" height="413" width="663"/></media>
+      </figure>
+      <para id="id9225975">Ở những nơi có độ sâu lớn, dòng chảy mạnh, việc cắm cọc lưới đáy rất khó khăn, nhiều khi không thể thực hiện được, người ta thường dùng neo-ngáng để thay thế cọc (H.9.4). </para>
+      <para id="id8011122">Neo được thả phía trứớc miệng lưới Đáy, được làm bằng kim loại hoặc bằng gỗ. Yêu cầu đối với neo là phải đủ nặng và bám chặc được trong đất, đãm bảo neo không bị rê (xê dịch) khi có dòng chảy mạnh tác dụng lên lưới. Neo được liên kết miệng lưới thông qua dây neo và ngáng.</para>
+      <para id="id8011132">Ngáng là thanh gỗ (hoặc kim loại) nhằm căng chiều cao miệng lưới đáy, chiều cao của ngáng bằng với chiều cao của miệng lưới đáy.</para>
+      <para id="id9274191">Dây neo thường được làm bằng dây tổng hợp (nilon, polyethylene,...). Yêu cầu đối với dây neo là phải chịu được kéo căng khi nước tác dụng lên lưới. dây neo nên được thả đủ dài để tránh tình trạng rê neo (cày neo).</para>
+      <para id="id8010692">Để ổn định miệng lưới đáy ở đầu trên của ngáng người ta thả hai phao tiêu (thùng phuy) nổi lên mặt nước và phía dưới ngáng có vật nặng để ngáng luôn thẳng đứng. Phao tiêu (thùng phuy) này cũng còn giúp cho tàu bè đi lại biết được khu vực ta đang thả lưới đáy mà tránh ra xa lưới đáy.</para>
+      <list id="id8010865" list-type="bulleted">
+        <item>Bè lưới Đáy</item>
+      </list>
+      <para id="id8267673">Trên các sông rộng, có độ sâu lớn thường thấy lưới đáy hoạt động kết nhau thành bè. Bè lưới đáy có chức năng nhằm cố định vị trí thả lưới đáy và tạo thành bệ nổi để thả ngáng. Bè lưới đáy thường dùng các ghe lớn, cũ liên kết lại thành một loạt các miệng lưới, giữa hai ghe là một miệng lưới đáy.</para>
+      <para id="id8011060">Ngáng cho bè lưới đáy cũng tương tự như cọc lưới đáy, nhưng sự khác biệt ở đây là ngáng không thả xuống sát đáy, mà được dựng đứng lơ lững trong nước. Phía trên của ngáng thì được cố định bởi các bè, phía dưới thì có các dây chằng cố định sao cho ngáng luôn ở tư thế thẳng đứng. Vì thế miệng lưới đá bè luôn nằm cách mặt nước một độ sâu nào đó cho dù nước lớn hay nước ròng.</para>
+      <figure id="id8011210">
+        <media id="id1170011351665" alt=""><image src="../../media/graphics5-0564.png" mime-type="image/png" height="318" width="596"/></media>
+      </figure>
+    </section>
+    <section id="id-113714792792">
+      <title>Kỹ thuật khai thác lưới đáy</title>
+      <para id="id9274506">Kỹ thuật khai thác lưới đáy gồm có hai bước: Chọn ngư trường (chọn bãi đặt lưới Đáy), và khai thác nghề lưới đáy.</para>
+      <section id="id-327550989515">
+        <title>Chọn ngư trường</title>
+        <para id="id9275028">Chọn ngư trường hay còn gọi chọn nơi thả đáy. Nơi thả lưới đáy phải là nơi có nhiều cá, tôm qua lại, là nơi có dòng chảy tương đối mạnh và có nhiều thức ăn cho cá. Tuy nhiên việc tìm nơi thả đáy không phải dễ dàng, vì nó liên quan đến sự đi lại của tàu bè và đường di chuyển của cá cũng thường thay đổi. Mặt khác lưới đáy là ngư cụ cố định nên việc chọn nơi đặt lưới đáy cần phải tính toán kỹ về hiệu quả kinh tế lâu dài.</para>
+        <para id="id9275036">Yêu cầu chung để chọn nơi đặt lưới đáy cần thỏa mãn các điều kiện sau:</para>
+        <list id="id9274929" list-type="bulleted">
+          <item>Nơi có nhiều cá, tôm đi lại. Sản lượng khai thác phải ổn định lâu dài.</item>
+          <item>Thuận tiện và dễ dàng trong việc lắp đặt cọc (hoặc neo hoặc bè) lưới đáy.</item>
+          <item>Không bị ảnh hưởng bởi tàu bè đi lại.</item>
+          <item>Mật độ khai thác, số lượng miệng lưới đáy không quá đông ở khu vực dự định lắp đặt lưới đáy. Nếu có thể được thì nên chọn nơi đầu con nước (chặn trước so với các miệng lưới đáy khác) hoặc chọn ngay hướng luồng cá di chuyển vào (thường thấy ở ngã ba sông hoặc khúc quanh).</item>
+          <item>Nếu đánh bắt mang tính mùa vụ thì nên trang bị tương đối gọn, nhẹ, lắp đặt nhanh và tháo dỡ dễ dàng.</item>
+          <item>Gần nơi tiêu thụ sản phẩm thủy sản, thuận lợi cho việc vận chuyển ngư lưới cụ và sản phẩm thủy sản.</item>
+        </list>
+      </section>
+      <section id="id-795729751569">
+        <title>Kỹ thuật khai thác lưới đáy</title>
+        <para id="id8011300">Nhìn chung kỹ thuật khai thác lưới đáy (đáy cọc, đáy neo, đáy bè, đáy cá tra,...) đều bao gồm các bước cơ bản sau: Chuẩn bị, chải lưới, thu lưới và bắt cá. Ta sẽ lần lượt tìm hiểu một số nghề lưới đáy phổ biến ở ĐBSCL sau:</para>
+        <section id="id-133104982693">
+          <title>Kỹ thuật khai thác lưới đáy cọc</title>
+          <list id="id8999028" list-type="bulleted">
+            <item>Chuẩn bị</item>
+          </list>
+          <para id="id8267838">Bước chuẩn bị đối với lưới đáy cọc là vá các chổ lưới bị rách, thay thế các bộ phận bị hư hỏng nặng và kém an toàn. Đồng thời kiểm tra các cọc đáy xem có bị mục, gãy, hoặc dây cáp căng cọc bị đứt hay không để kịp thơi sửa chữa. Sau đó chuyển lưới đến điểm thả đáy.</para>
+          <list id="id8267845" list-type="bulleted">
+            <item>Thả lưới (chải đáy)</item>
+          </list>
+          <para id="id9274218">Khi lưới đã được chuyển đến điểm thả đáy, thì buộc thuyền vào rượng dưới, tiếp đó vắt lưới lên rượng trên thành từng lớp từ đụt ở dưới, thân, cánh ở trên cùng. Tiếp đến đưa hai đấu cánh (2 cặp điêu) về hai bên cọc rồi liên kết điêu với nài và mép sắt. Chú ý coi chừng giềng bị xoắn.</para>
+          <para id="id8011534">Chờ khi nước hạ thấp, dòng chảy vừa đủ để cho lưới trôi về phía sau thì tiến hành tháo tay quay tời (thả mép sắt), ấn nhẹ cây chui, điêu lưới sẽ tự động tuột theo cọc xuống đến độ sâu đã định. Khi đó, dưới tác dụng của dòng chảy, miệng lưới từ từ mở ra, kéo theo lưới (đã được dắt trên rượng trước đó) sẽ lần lượt tuột xuống nước và trôi dần về phía sau. Khi lưới đã làm việc ổn định, ta thắt đáy đụt lại, rồi buộc dây đổ đụt vào rượng. </para>
+          <para id="id9193052">Tiếp đến là thời gian chải đáy, thời gian chải đáy tùy thuộc vào chu kỳ thay đổi chiều dòng chảy, tốc độ dòng chảy và mật độ cá vào đáy,... mà có thời gian chải đáy khác nhau.</para>
+          <list id="id9193067" list-type="bulleted">
+            <item>Đổ đụt (thu cá)</item>
+          </list>
+          <para id="id8010889">Sau thời gian chải đáy nhất định nào đó, thì ta tiến hành đổ đụt. Trước hết ta dùng ghe (thuyền) lần theo dây đổ đụt (dây thắt đáy đụt), dùng dây này kéo đụt lên thuyền. Tiếp đó tháo miệng đụt (hoặc mở miệng rọ) rồi trút cá ra.</para>
+          <list id="id8010893" list-type="bulleted">
+            <item>Thu lưới</item>
+          </list>
+          <para id="id8210773">Khi hết giai đoạn thả lưới (tùy theo con nước cá xuất hiện, thông thường 5-7 ngày) thì ta thu lưới đem vào bờ. Để thu lưới trước hết ta gắn tay quay vào tời, quay tời để nâng hai điêu lưới lên gần rượng dưới, khóa tay quay và buộc chặt hai nài vào cọc. Tiếp đó tháo hai điêu, buộc chung lại với nhau và bắt đầu giặt lưới từ cánh, đến thân rồi đụt lưới. Sau cùng chuyển lưới vào bờ là hết một con nước khai thác lưới đáy.</para>
+        </section>
+        <section id="id-228160633076">
+          <title>Kỹ thuật khai thác lưới đáy neo</title>
+          <para id="id8210683">Lưới đáy cố định bằng neo là phương pháp cơ động nhất trong các phương pháp khai thác lưới đáy. Nó đáp ứng được nhu cầu khai thác ở những nơi sâu, khó lắp cọc đáy, và dễ dàng tháo dỡ lưới đáy khi không còn khai thác nữa.</para>
+          <list id="id8267781" list-type="bulleted">
+            <item>Chuẩn bị</item>
+          </list>
+          <para id="id8267790">Bước chuẩn bị cũng gần giống như chuẩn bị đối với lưới đáy cọc. Điểm khác nhau là thay vì chuẩn bị vật tư, phương tiện cho cọc đáy thì ở đây người ta chuẩn bị các neo, dây cáp giăng và phao nổi (thùng phuy).</para>
+          <list id="id8267796" list-type="bulleted">
+            <item>Thả lưới</item>
+          </list>
+          <para id="id8011037">Đưa neo, phao và lưới đến điểm thả đáy. Công việc đầu tiên cần làm là tiến hành thả neo và phao nổi. Trước hết ta thả neo 1, rồi đưa thuyền về ngang với neo 1, ở khoảng cách nhất định, ta thả tiếp neo 2. Tiếp đến nới so hai dây neo sao cho hai phao ngang bằng nhau. Cuối cùng ta ổn định khoảng cách giựa 2 phao nổi bằng dây khống chế miệng đáy.</para>
+          <para id="id7968175">Khi hai neo đã ổn định vị trí, ta tiến hành thả ngáng (có khi người ta thay ngáng bằng dây đứng cũng có phao ở trên và vật nặng ở dưới). Ở phía dưới ngáng ta buộc dây tam giác nối với dây cáp neo. Tiếp đó ta buộc 2 điêu lưới vào ngáng, rồi thả toàn bộ ngáng và lưới xuống nước. Dưới tác dụng của vật nặng, phao và dòng chảy lưới sẽ tự động rơi chìm xuống nước và lưới sẽ được mở ra. Tiếp đến ta buộc đụt bởi dây thắt đáy đáy đụt vàì một đầu kia của dây thắt đáy đụt ta buộc với phao nổi để định vị đáy đụt.</para>
+          <list id="id7968182" list-type="bulleted">
+            <item>Đổ đụt</item>
+          </list>
+          <para id="id7968191">Tương tự như lưới đáy cọc, sau thời gian nhất định (phụ thuộc vào chu kỳ nước lớn, ròng) ta cũng tiến hành đổ đụt. Trước hết ta dùng thuyền bơi đến chổ phao đáy đụt, kéo dây thắt đáy đụt lên và tiến hành tháo đụt, trút cá ra. Nếu khai thác liên tục thì ta buộc đáy đụt lại rồi chải đụt tiếp. </para>
+          <list id="id9274079" list-type="bulleted">
+            <item>Thu lưới.</item>
+          </list>
+          <para id="id9274747">Khi không còn khai thác nữa thì ta tiến hành thu lưới. Trước hết ta tháo 2 điêu lưới ra, rồi gộp chung lại với nhau. Sau đó rữa lưới, xếp lại, rồ thu tất cả phao, cáp giăng và neo. Chuyển tất cả lưới và trang thiết bị về nhà. Đến đây thì hết một đợt khai thác lưới đáy neo.</para>
+          <para id="id5535016">Điểm khác biệt của kỹ thuật khai thác lưới đáy neo là ở chổ: giai đoạn thả lưới và thu lưới là vào lúc nước đứng (chảy yếu). Còn giai đoạn chải đáy là lúc nước chảy mạnh, nước chảy càng mạnh đáy càng bị chìm xuống. Thường thu cá một lần, nhưng đối với đáy cá tra thì thu thường xuyên bằng cách dùng vợt xúc cá trong thùng chứa ở cuối đụt.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
