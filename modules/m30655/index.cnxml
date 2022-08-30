@@ -79,12 +79,7 @@ Lưới rê có thể đánh bắt như là một ngư cụ cố định hoặc 
     <para id="id9613155">Chẳng hạn, đối với cá có mặt cắt ngang có dạng chiều cao thân lớn hơn chiều ngang (cá thu, cá bạc má,...) thì ta nên chọn hệ số rút gọn ngang nhỏ, khi đó mắt lưới có dạng hình thoi đứng; ngược lại, nếu cá có mặt cắt ngang thể hiện chiều cao thân nhỏ hơn chiều ngang (cá bơn, cá đuối,...) thì ta nên chọn hệ số rút gọn ngang lớn, khi đó mắt lưới có dạng hình thoi ngang.</para>
     <para id="id9625032">Ta có thể xác định hệ số rút gọn ngang theo tỉ lệ sau:</para>
     <para id="id8887862">
-      <m:math>
-        <m:semantics>
-          <m:mrow/>
-          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
-        </m:semantics>
-      </m:math>
+      
       <m:math>
         <m:semantics>
           <m:mrow>
